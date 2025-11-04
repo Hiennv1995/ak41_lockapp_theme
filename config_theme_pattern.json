@@ -5,7 +5,8 @@
         {
           "wallpaper_name": "Animal",
   	  "wallpaper_count": 10,
-          "wallpaper_path": "Theme_pattern/Anime/"
+          "wallpaper_path": "Theme_pattern/Anime/theme_",
+ 	  "wallpaper_path": "Theme_pattern/Anime/pattern_"
         }
       ],
       "category_2": [

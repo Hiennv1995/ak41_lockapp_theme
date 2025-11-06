@@ -1,0 +1,71 @@
+{
+  "category": [
+    {
+      "category_1": [
+        {
+          "category_name": "Animal",
+  	  "category_count": 10,
+          "background": "Theme_pattern/Anime/background_",
+ 	  "pattern_preview": "Theme_pattern/Anime/pattern_preview_",
+	  "pattern_default": "Theme_pattern/Anime/pattern_default_",
+          "pattern_selected": "Theme_pattern/Anime/pattern_selected_",
+          "pattern_wrong": "Theme_pattern/Anime/pattern_selected_",
+          "line_color_right": "#CCFFFFFF",
+  	  "line_color_wrong": "#CCFFFFFF"
+        }
+      ],
+      "category_2": [
+        {
+                "category_name": "Animal",
+  	  "category_count": 10,
+          "background": "Theme_pattern/Anime/background_",
+ 	  "pattern_preview": "Theme_pattern/Anime/pattern_preview_",
+	  "pattern_default": "Theme_pattern/Anime/pattern_default_",
+          "pattern_selected": "Theme_pattern/Anime/pattern_selected_",
+          "pattern_wrong": "Theme_pattern/Anime/pattern_selected_",
+          "line_color_right": "#CCFFFFFF",
+  	  "line_color_wrong": "#CCFFFFFF"
+        }
+      ],
+    "category_3": [
+        {
+                   "category_name": "Animal",
+  	  "category_count": 10,
+          "background": "Theme_pattern/Anime/background_",
+ 	  "pattern_preview": "Theme_pattern/Anime/pattern_preview_",
+	  "pattern_default": "Theme_pattern/Anime/pattern_default_",
+          "pattern_selected": "Theme_pattern/Anime/pattern_selected_",
+          "pattern_wrong": "Theme_pattern/Anime/pattern_selected_",
+          "line_color_right": "#CCFFFFFF",
+  	  "line_color_wrong": "#CCFFFFFF"
+        }
+      ],
+    "category_4": [
+        {
+                "category_name": "Animal",
+  	  "category_count": 10,
+          "background": "Theme_pattern/Anime/background_",
+ 	  "pattern_preview": "Theme_pattern/Anime/pattern_preview_",
+	  "pattern_default": "Theme_pattern/Anime/pattern_default_",
+          "pattern_selected": "Theme_pattern/Anime/pattern_selected_",
+          "pattern_wrong": "Theme_pattern/Anime/pattern_selected_",
+          "line_color_right": "#CCFFFFFF",
+  	  "line_color_wrong": "#CCFFFFFF"
+        }
+      ],
+    "category_5": [
+        {
+             "category_name": "Animal",
+  	  "category_count": 10,
+          "background": "Theme_pattern/Anime/background_",
+ 	  "pattern_preview": "Theme_pattern/Anime/pattern_preview_",
+	  "pattern_default": "Theme_pattern/Anime/pattern_default_",
+          "pattern_selected": "Theme_pattern/Anime/pattern_selected_",
+          "pattern_wrong": "Theme_pattern/Anime/pattern_selected_",
+          "line_color_right": "#CCFFFFFF",
+  	  "line_color_wrong": "#CCFFFFFF"
+        }
+      ]
+    }
+  ]
+}

@@ -3,356 +3,1458 @@
     {
       "category_1": [
         {
-          "category_name": "Animal",
-  	  "category_count": 10,
-	  "patterns":[
-		{
-		"id": 0,
-		"background": "Theme_pattern/Anime/background_0.jpg",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0.png",
-		"default": "Theme_pattern/Anime/pattern_default_0.png",
-		"selected": "Theme_pattern/Anime/pattern_selected_0.png", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0.png",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 1,
-		"background": "Theme_pattern/Anime/background_0.jpg",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0.png",
-		"default": "Theme_pattern/Anime/pattern_default_0.png",
-		"selected": "Theme_pattern/Anime/pattern_selected_0.png", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0.png",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 2,
-			"background": "Theme_pattern/Anime/background_0.jpg",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0.png",
-		"default": "Theme_pattern/Anime/pattern_default_0.png",
-		"selected": "Theme_pattern/Anime/pattern_selected_0.png", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0.png",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 3,
-			"background": "Theme_pattern/Anime/background_0.jpg",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0.png",
-		"default": "Theme_pattern/Anime/pattern_default_0.png",
-		"selected": "Theme_pattern/Anime/pattern_selected_0.png", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0.png",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 4,
-		"background": "Theme_pattern/Anime/background_0.jpg",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0.png",
-		"default": "Theme_pattern/Anime/pattern_default_0.png",
-		"selected": "Theme_pattern/Anime/pattern_selected_0.png", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0.png",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 5,
-			"background": "Theme_pattern/Anime/background_0.jpg",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0.png",
-		"default": "Theme_pattern/Anime/pattern_default_0.png",
-		"selected": "Theme_pattern/Anime/pattern_selected_0.png", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0.png",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 6,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 7,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 8,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 9,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 10,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		}
-	    ]
+          "category_name": "Gradient",
+          "category_count": 20,
+          "patterns": [
+            {
+              "id": 0,
+              "background": "Theme_pattern/Gradient/background_0.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
+              "default": "Theme_pattern/Gradient/pattern_default_0.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_0.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_0.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 1,
+              "background": "Theme_pattern/Gradient/background_1.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_1.png",
+              "default": "Theme_pattern/Gradient/pattern_default_1.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_1.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_1.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 2,
+              "background": "Theme_pattern/Gradient/background_2.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_2.png",
+              "default": "Theme_pattern/Gradient/pattern_default_2.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_2.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_2.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 3,
+              "background": "Theme_pattern/Gradient/background_3.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_3.png",
+              "default": "Theme_pattern/Gradient/pattern_default_3.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_3.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_3.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 4,
+              "background": "Theme_pattern/Gradient/background_4.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_4.png",
+              "default": "Theme_pattern/Gradient/pattern_default_4.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_4.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_4.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 5,
+              "background": "Theme_pattern/Gradient/background_5.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_5.png",
+              "default": "Theme_pattern/Gradient/pattern_default_5.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_5.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_5.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 6,
+              "background": "Theme_pattern/Gradient/background_6.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_6.png",
+              "default": "Theme_pattern/Gradient/pattern_default_6.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_6.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_6.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 7,
+              "background": "Theme_pattern/Gradient/background_7.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_7.png",
+              "default": "Theme_pattern/Gradient/pattern_default_7.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_7.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_7.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 8,
+              "background": "Theme_pattern/Gradient/background_8.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_8.png",
+              "default": "Theme_pattern/Gradient/pattern_default_8.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_8.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_8.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 9,
+              "background": "Theme_pattern/Gradient/background_9.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_9.png",
+              "default": "Theme_pattern/Gradient/pattern_default_9.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_9.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_9.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 10,
+              "background": "Theme_pattern/Gradient/background_10.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_10.png",
+              "default": "Theme_pattern/Gradient/pattern_default_10.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_10.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_10.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 11,
+              "background": "Theme_pattern/Gradient/background_11.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_11.png",
+              "default": "Theme_pattern/Gradient/pattern_default_11.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_11.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_11.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 12,
+              "background": "Theme_pattern/Gradient/background_12.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_12.png",
+              "default": "Theme_pattern/Gradient/pattern_default_12.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_12.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_12.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 13,
+              "background": "Theme_pattern/Gradient/background_13.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_13.png",
+              "default": "Theme_pattern/Gradient/pattern_default_13.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_13.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_13.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 14,
+              "background": "Theme_pattern/Gradient/background_14.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_14.png",
+              "default": "Theme_pattern/Gradient/pattern_default_14.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_14.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_14.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 15,
+              "background": "Theme_pattern/Gradient/background_15.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_15.png",
+              "default": "Theme_pattern/Gradient/pattern_default_15.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_15.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_15.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 16,
+              "background": "Theme_pattern/Gradient/background_16.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_16.png",
+              "default": "Theme_pattern/Gradient/pattern_default_16.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_16.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_16.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 17,
+              "background": "Theme_pattern/Gradient/background_17.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_17.png",
+              "default": "Theme_pattern/Gradient/pattern_default_17.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_17.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_17.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 18,
+              "background": "Theme_pattern/Gradient/background_18.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_18.png",
+              "default": "Theme_pattern/Gradient/pattern_default_18.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_18.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_18.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 19,
+              "background": "Theme_pattern/Gradient/background_19.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_19.png",
+              "default": "Theme_pattern/Gradient/pattern_default_19.png",
+              "selected": "Theme_pattern/Gradient/pattern_selected_19.png",
+              "wrong": "Theme_pattern/Gradient/pattern_selected_19.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            }
+          ]
         }
       ],
-       "category_2": [
+      "category_2": [
         {
-          "category_name": "Animal",
-  	  "category_count": 10,
-	  "patterns":[
-		{
-		"id": 0,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 1,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 2,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 3,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 4,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 5,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 6,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 7,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 8,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 9,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 10,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		}
-	    ]
+          "category_name": "Emoji",
+          "category_count": 20,
+          "patterns": [
+            {
+              "id": 0,
+              "background": "Theme_pattern/Emoji/background_0.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_0.png",
+              "default": "Theme_pattern/Emoji/pattern_default_0.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_0.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_0.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 1,
+              "background": "Theme_pattern/Emoji/background_1.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_1.png",
+              "default": "Theme_pattern/Emoji/pattern_default_1.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_1.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_1.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 2,
+              "background": "Theme_pattern/Emoji/background_2.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_2.png",
+              "default": "Theme_pattern/Emoji/pattern_default_2.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_2.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_2.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 3,
+              "background": "Theme_pattern/Emoji/background_3.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_3.png",
+              "default": "Theme_pattern/Emoji/pattern_default_3.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_3.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_3.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 4,
+              "background": "Theme_pattern/Emoji/background_4.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_4.png",
+              "default": "Theme_pattern/Emoji/pattern_default_4.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_4.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_4.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 5,
+              "background": "Theme_pattern/Emoji/background_5.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_5.png",
+              "default": "Theme_pattern/Emoji/pattern_default_5.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_5.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_5.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 6,
+              "background": "Theme_pattern/Emoji/background_6.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_6.png",
+              "default": "Theme_pattern/Emoji/pattern_default_6.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_6.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_6.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 7,
+              "background": "Theme_pattern/Emoji/background_7.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_7.png",
+              "default": "Theme_pattern/Emoji/pattern_default_7.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_7.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_7.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 8,
+              "background": "Theme_pattern/Emoji/background_8.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_8.png",
+              "default": "Theme_pattern/Emoji/pattern_default_8.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_8.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_8.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 9,
+              "background": "Theme_pattern/Emoji/background_9.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_9.png",
+              "default": "Theme_pattern/Emoji/pattern_default_9.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_9.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_9.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 10,
+              "background": "Theme_pattern/Emoji/background_10.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_10.png",
+              "default": "Theme_pattern/Emoji/pattern_default_10.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_10.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_10.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 11,
+              "background": "Theme_pattern/Emoji/background_11.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_11.png",
+              "default": "Theme_pattern/Emoji/pattern_default_11.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_11.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_11.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 12,
+              "background": "Theme_pattern/Emoji/background_12.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_12.png",
+              "default": "Theme_pattern/Emoji/pattern_default_12.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_12.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_12.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 13,
+              "background": "Theme_pattern/Emoji/background_13.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_13.png",
+              "default": "Theme_pattern/Emoji/pattern_default_13.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_13.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_13.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 14,
+              "background": "Theme_pattern/Emoji/background_14.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_14.png",
+              "default": "Theme_pattern/Emoji/pattern_default_14.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_14.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_14.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 15,
+              "background": "Theme_pattern/Emoji/background_15.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_15.png",
+              "default": "Theme_pattern/Emoji/pattern_default_15.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_15.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_15.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 16,
+              "background": "Theme_pattern/Emoji/background_16.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_16.png",
+              "default": "Theme_pattern/Emoji/pattern_default_16.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_16.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_16.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 17,
+              "background": "Theme_pattern/Emoji/background_17.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_17.png",
+              "default": "Theme_pattern/Emoji/pattern_default_17.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_17.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_17.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 18,
+              "background": "Theme_pattern/Emoji/background_18.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_18.png",
+              "default": "Theme_pattern/Emoji/pattern_default_18.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_18.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_18.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 19,
+              "background": "Theme_pattern/Emoji/background_19.jpg",
+              "type_lock": "Theme_pattern/Emoji/pattern_preview_19.png",
+              "default": "Theme_pattern/Emoji/pattern_default_19.png",
+              "selected": "Theme_pattern/Emoji/pattern_selected_19.png",
+              "wrong": "Theme_pattern/Emoji/pattern_selected_19.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            }
+          ]
         }
       ],
-     "category_3": [
+      "category_3": [
         {
-          "category_name": "Animal",
-  	  "category_count": 10,
-	  "patterns":[
-		{
-		"id": 0,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 1,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 2,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 3,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 4,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 5,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 6,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 7,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 8,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 9,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		},
-		{
-		"id": 10,
-		"background": "Theme_pattern/Anime/background_0",
-		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
-		"default": "Theme_pattern/Anime/pattern_default_0",
-		"selected": "Theme_pattern/Anime/pattern_selected_0", 
-   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
-		"line_color_right": "#CCFFFFFF",
-  	 	"line_color_wrong": "#CCFFFFFF"
-		}
-	    ]
+          "category_name": "Cute",
+          "category_count": 20,
+          "patterns": [
+            {
+              "id": 0,
+              "background": "Theme_pattern/Cute/background_0.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_0.png",
+              "default": "Theme_pattern/Cute/pattern_default_0.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_0.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_0.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 1,
+              "background": "Theme_pattern/Cute/background_1.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_1.png",
+              "default": "Theme_pattern/Cute/pattern_default_1.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_1.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_1.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 2,
+              "background": "Theme_pattern/Cute/background_2.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_2.png",
+              "default": "Theme_pattern/Cute/pattern_default_2.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_2.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_2.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 3,
+              "background": "Theme_pattern/Cute/background_3.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_3.png",
+              "default": "Theme_pattern/Cute/pattern_default_3.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_3.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_3.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 4,
+              "background": "Theme_pattern/Cute/background_4.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_4.png",
+              "default": "Theme_pattern/Cute/pattern_default_4.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_4.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_4.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 5,
+              "background": "Theme_pattern/Cute/background_5.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_5.png",
+              "default": "Theme_pattern/Cute/pattern_default_5.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_5.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_5.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 6,
+              "background": "Theme_pattern/Cute/background_6.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_6.png",
+              "default": "Theme_pattern/Cute/pattern_default_6.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_6.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_6.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 7,
+              "background": "Theme_pattern/Cute/background_7.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_7.png",
+              "default": "Theme_pattern/Cute/pattern_default_7.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_7.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_7.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 8,
+              "background": "Theme_pattern/Cute/background_8.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_8.png",
+              "default": "Theme_pattern/Cute/pattern_default_8.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_8.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_8.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 9,
+              "background": "Theme_pattern/Cute/background_9.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_9.png",
+              "default": "Theme_pattern/Cute/pattern_default_9.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_9.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_9.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 10,
+              "background": "Theme_pattern/Cute/background_10.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_10.png",
+              "default": "Theme_pattern/Cute/pattern_default_10.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_10.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_10.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 11,
+              "background": "Theme_pattern/Cute/background_11.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_11.png",
+              "default": "Theme_pattern/Cute/pattern_default_11.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_11.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_11.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 12,
+              "background": "Theme_pattern/Cute/background_12.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_12.png",
+              "default": "Theme_pattern/Cute/pattern_default_12.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_12.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_12.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 13,
+              "background": "Theme_pattern/Cute/background_13.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_13.png",
+              "default": "Theme_pattern/Cute/pattern_default_13.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_13.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_13.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 14,
+              "background": "Theme_pattern/Cute/background_14.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_14.png",
+              "default": "Theme_pattern/Cute/pattern_default_14.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_14.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_14.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 15,
+              "background": "Theme_pattern/Cute/background_15.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_15.png",
+              "default": "Theme_pattern/Cute/pattern_default_15.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_15.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_15.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 16,
+              "background": "Theme_pattern/Cute/background_16.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_16.png",
+              "default": "Theme_pattern/Cute/pattern_default_16.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_16.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_16.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 17,
+              "background": "Theme_pattern/Cute/background_17.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_17.png",
+              "default": "Theme_pattern/Cute/pattern_default_17.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_17.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_17.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 18,
+              "background": "Theme_pattern/Cute/background_18.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_18.png",
+              "default": "Theme_pattern/Cute/pattern_default_18.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_18.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_18.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 19,
+              "background": "Theme_pattern/Cute/background_19.jpg",
+              "type_lock": "Theme_pattern/Cute/pattern_preview_19.png",
+              "default": "Theme_pattern/Cute/pattern_default_19.png",
+              "selected": "Theme_pattern/Cute/pattern_selected_19.png",
+              "wrong": "Theme_pattern/Cute/pattern_selected_19.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            }
+          ]
+        }
+      ],
+      "category_4": [
+        {
+          "category_name": "Love",
+          "category_count": 20,
+          "patterns": [
+            {
+              "id": 0,
+              "background": "Theme_pattern/Love/background_0.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_0.png",
+              "default": "Theme_pattern/Love/pattern_default_0.png",
+              "selected": "Theme_pattern/Love/pattern_selected_0.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_0.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 1,
+              "background": "Theme_pattern/Love/background_1.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_1.png",
+              "default": "Theme_pattern/Love/pattern_default_1.png",
+              "selected": "Theme_pattern/Love/pattern_selected_1.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_1.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 2,
+              "background": "Theme_pattern/Love/background_2.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_2.png",
+              "default": "Theme_pattern/Love/pattern_default_2.png",
+              "selected": "Theme_pattern/Love/pattern_selected_2.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_2.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 3,
+              "background": "Theme_pattern/Love/background_3.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_3.png",
+              "default": "Theme_pattern/Love/pattern_default_3.png",
+              "selected": "Theme_pattern/Love/pattern_selected_3.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_3.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 4,
+              "background": "Theme_pattern/Love/background_4.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_4.png",
+              "default": "Theme_pattern/Love/pattern_default_4.png",
+              "selected": "Theme_pattern/Love/pattern_selected_4.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_4.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 5,
+              "background": "Theme_pattern/Love/background_5.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_5.png",
+              "default": "Theme_pattern/Love/pattern_default_5.png",
+              "selected": "Theme_pattern/Love/pattern_selected_5.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_5.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 6,
+              "background": "Theme_pattern/Love/background_6.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_6.png",
+              "default": "Theme_pattern/Love/pattern_default_6.png",
+              "selected": "Theme_pattern/Love/pattern_selected_6.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_6.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 7,
+              "background": "Theme_pattern/Love/background_7.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_7.png",
+              "default": "Theme_pattern/Love/pattern_default_7.png",
+              "selected": "Theme_pattern/Love/pattern_selected_7.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_7.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 8,
+              "background": "Theme_pattern/Love/background_8.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_8.png",
+              "default": "Theme_pattern/Love/pattern_default_8.png",
+              "selected": "Theme_pattern/Love/pattern_selected_8.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_8.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 9,
+              "background": "Theme_pattern/Love/background_9.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_9.png",
+              "default": "Theme_pattern/Love/pattern_default_9.png",
+              "selected": "Theme_pattern/Love/pattern_selected_9.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_9.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 10,
+              "background": "Theme_pattern/Love/background_10.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_10.png",
+              "default": "Theme_pattern/Love/pattern_default_10.png",
+              "selected": "Theme_pattern/Love/pattern_selected_10.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_10.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 11,
+              "background": "Theme_pattern/Love/background_11.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_11.png",
+              "default": "Theme_pattern/Love/pattern_default_11.png",
+              "selected": "Theme_pattern/Love/pattern_selected_11.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_11.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 12,
+              "background": "Theme_pattern/Love/background_12.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_12.png",
+              "default": "Theme_pattern/Love/pattern_default_12.png",
+              "selected": "Theme_pattern/Love/pattern_selected_12.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_12.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 13,
+              "background": "Theme_pattern/Love/background_13.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_13.png",
+              "default": "Theme_pattern/Love/pattern_default_13.png",
+              "selected": "Theme_pattern/Love/pattern_selected_13.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_13.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 14,
+              "background": "Theme_pattern/Love/background_14.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_14.png",
+              "default": "Theme_pattern/Love/pattern_default_14.png",
+              "selected": "Theme_pattern/Love/pattern_selected_14.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_14.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 15,
+              "background": "Theme_pattern/Love/background_15.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_15.png",
+              "default": "Theme_pattern/Love/pattern_default_15.png",
+              "selected": "Theme_pattern/Love/pattern_selected_15.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_15.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 16,
+              "background": "Theme_pattern/Love/background_16.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_16.png",
+              "default": "Theme_pattern/Love/pattern_default_16.png",
+              "selected": "Theme_pattern/Love/pattern_selected_16.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_16.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 17,
+              "background": "Theme_pattern/Love/background_17.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_17.png",
+              "default": "Theme_pattern/Love/pattern_default_17.png",
+              "selected": "Theme_pattern/Love/pattern_selected_17.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_17.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 18,
+              "background": "Theme_pattern/Love/background_18.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_18.png",
+              "default": "Theme_pattern/Love/pattern_default_18.png",
+              "selected": "Theme_pattern/Love/pattern_selected_18.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_18.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 19,
+              "background": "Theme_pattern/Love/background_19.jpg",
+              "type_lock": "Theme_pattern/Love/pattern_preview_19.png",
+              "default": "Theme_pattern/Love/pattern_default_19.png",
+              "selected": "Theme_pattern/Love/pattern_selected_19.png",
+              "wrong": "Theme_pattern/Love/pattern_selected_19.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            }
+          ]
+        }
+      ],
+      "category_5": [
+        {
+          "category_name": "Anime",
+          "category_count": 20,
+          "patterns": [
+            {
+              "id": 0,
+              "background": "Theme_pattern/Anime/background_0.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_0.png",
+              "default": "Theme_pattern/Anime/pattern_default_0.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_0.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_0.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 1,
+              "background": "Theme_pattern/Anime/background_1.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_1.png",
+              "default": "Theme_pattern/Anime/pattern_default_1.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_1.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_1.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 2,
+              "background": "Theme_pattern/Anime/background_2.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_2.png",
+              "default": "Theme_pattern/Anime/pattern_default_2.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_2.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_2.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 3,
+              "background": "Theme_pattern/Anime/background_3.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_3.png",
+              "default": "Theme_pattern/Anime/pattern_default_3.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_3.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_3.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 4,
+              "background": "Theme_pattern/Anime/background_4.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_4.png",
+              "default": "Theme_pattern/Anime/pattern_default_4.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_4.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_4.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 5,
+              "background": "Theme_pattern/Anime/background_5.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_5.png",
+              "default": "Theme_pattern/Anime/pattern_default_5.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_5.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_5.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 6,
+              "background": "Theme_pattern/Anime/background_6.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_6.png",
+              "default": "Theme_pattern/Anime/pattern_default_6.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_6.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_6.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 7,
+              "background": "Theme_pattern/Anime/background_7.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_7.png",
+              "default": "Theme_pattern/Anime/pattern_default_7.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_7.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_7.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 8,
+              "background": "Theme_pattern/Anime/background_8.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_8.png",
+              "default": "Theme_pattern/Anime/pattern_default_8.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_8.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_8.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 9,
+              "background": "Theme_pattern/Anime/background_9.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_9.png",
+              "default": "Theme_pattern/Anime/pattern_default_9.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_9.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_9.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 10,
+              "background": "Theme_pattern/Anime/background_10.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_10.png",
+              "default": "Theme_pattern/Anime/pattern_default_10.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_10.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_10.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 11,
+              "background": "Theme_pattern/Anime/background_11.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_11.png",
+              "default": "Theme_pattern/Anime/pattern_default_11.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_11.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_11.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 12,
+              "background": "Theme_pattern/Anime/background_12.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_12.png",
+              "default": "Theme_pattern/Anime/pattern_default_12.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_12.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_12.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 13,
+              "background": "Theme_pattern/Anime/background_13.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_13.png",
+              "default": "Theme_pattern/Anime/pattern_default_13.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_13.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_13.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 14,
+              "background": "Theme_pattern/Anime/background_14.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_14.png",
+              "default": "Theme_pattern/Anime/pattern_default_14.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_14.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_14.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 15,
+              "background": "Theme_pattern/Anime/background_15.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_15.png",
+              "default": "Theme_pattern/Anime/pattern_default_15.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_15.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_15.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 16,
+              "background": "Theme_pattern/Anime/background_16.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_16.png",
+              "default": "Theme_pattern/Anime/pattern_default_16.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_16.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_16.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 17,
+              "background": "Theme_pattern/Anime/background_17.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_17.png",
+              "default": "Theme_pattern/Anime/pattern_default_17.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_17.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_17.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 18,
+              "background": "Theme_pattern/Anime/background_18.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_18.png",
+              "default": "Theme_pattern/Anime/pattern_default_18.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_18.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_18.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 19,
+              "background": "Theme_pattern/Anime/background_19.jpg",
+              "type_lock": "Theme_pattern/Anime/pattern_preview_19.png",
+              "default": "Theme_pattern/Anime/pattern_default_19.png",
+              "selected": "Theme_pattern/Anime/pattern_selected_19.png",
+              "wrong": "Theme_pattern/Anime/pattern_selected_19.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            }
+          ]
+        }
+      ],
+      "category_6": [
+        {
+          "category_name": "Neon",
+          "category_count": 20,
+          "patterns": [
+            {
+              "id": 0,
+              "background": "Theme_pattern/Neon/background_0.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_0.png",
+              "default": "Theme_pattern/Neon/pattern_default_0.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_0.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_0.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 1,
+              "background": "Theme_pattern/Neon/background_1.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_1.png",
+              "default": "Theme_pattern/Neon/pattern_default_1.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_1.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_1.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 2,
+              "background": "Theme_pattern/Neon/background_2.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_2.png",
+              "default": "Theme_pattern/Neon/pattern_default_2.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_2.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_2.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 3,
+              "background": "Theme_pattern/Neon/background_3.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_3.png",
+              "default": "Theme_pattern/Neon/pattern_default_3.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_3.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_3.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 4,
+              "background": "Theme_pattern/Neon/background_4.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_4.png",
+              "default": "Theme_pattern/Neon/pattern_default_4.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_4.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_4.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 5,
+              "background": "Theme_pattern/Neon/background_5.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_5.png",
+              "default": "Theme_pattern/Neon/pattern_default_5.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_5.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_5.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 6,
+              "background": "Theme_pattern/Neon/background_6.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_6.png",
+              "default": "Theme_pattern/Neon/pattern_default_6.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_6.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_6.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 7,
+              "background": "Theme_pattern/Neon/background_7.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_7.png",
+              "default": "Theme_pattern/Neon/pattern_default_7.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_7.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_7.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 8,
+              "background": "Theme_pattern/Neon/background_8.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_8.png",
+              "default": "Theme_pattern/Neon/pattern_default_8.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_8.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_8.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 9,
+              "background": "Theme_pattern/Neon/background_9.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_9.png",
+              "default": "Theme_pattern/Neon/pattern_default_9.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_9.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_9.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 10,
+              "background": "Theme_pattern/Neon/background_10.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_10.png",
+              "default": "Theme_pattern/Neon/pattern_default_10.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_10.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_10.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 11,
+              "background": "Theme_pattern/Neon/background_11.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_11.png",
+              "default": "Theme_pattern/Neon/pattern_default_11.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_11.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_11.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 12,
+              "background": "Theme_pattern/Neon/background_12.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_12.png",
+              "default": "Theme_pattern/Neon/pattern_default_12.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_12.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_12.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 13,
+              "background": "Theme_pattern/Neon/background_13.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_13.png",
+              "default": "Theme_pattern/Neon/pattern_default_13.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_13.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_13.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 14,
+              "background": "Theme_pattern/Neon/background_14.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_14.png",
+              "default": "Theme_pattern/Neon/pattern_default_14.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_14.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_14.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 15,
+              "background": "Theme_pattern/Neon/background_15.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_15.png",
+              "default": "Theme_pattern/Neon/pattern_default_15.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_15.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_15.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 16,
+              "background": "Theme_pattern/Neon/background_16.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_16.png",
+              "default": "Theme_pattern/Neon/pattern_default_16.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_16.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_16.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 17,
+              "background": "Theme_pattern/Neon/background_17.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_17.png",
+              "default": "Theme_pattern/Neon/pattern_default_17.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_17.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_17.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 18,
+              "background": "Theme_pattern/Neon/background_18.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_18.png",
+              "default": "Theme_pattern/Neon/pattern_default_18.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_18.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_18.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 19,
+              "background": "Theme_pattern/Neon/background_19.jpg",
+              "type_lock": "Theme_pattern/Neon/pattern_preview_19.png",
+              "default": "Theme_pattern/Neon/pattern_default_19.png",
+              "selected": "Theme_pattern/Neon/pattern_selected_19.png",
+              "wrong": "Theme_pattern/Neon/pattern_selected_19.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            }
+          ]
+        }
+      ],
+      "category_7": [
+        {
+          "category_name": "Color",
+          "category_count": 20,
+          "patterns": [
+            {
+              "id": 0,
+              "background": "Theme_pattern/Color/background_0.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_0.png",
+              "default": "Theme_pattern/Color/pattern_default_0.png",
+              "selected": "Theme_pattern/Color/pattern_selected_0.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_0.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 1,
+              "background": "Theme_pattern/Color/background_1.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_1.png",
+              "default": "Theme_pattern/Color/pattern_default_1.png",
+              "selected": "Theme_pattern/Color/pattern_selected_1.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_1.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 2,
+              "background": "Theme_pattern/Color/background_2.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_2.png",
+              "default": "Theme_pattern/Color/pattern_default_2.png",
+              "selected": "Theme_pattern/Color/pattern_selected_2.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_2.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 3,
+              "background": "Theme_pattern/Color/background_3.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_3.png",
+              "default": "Theme_pattern/Color/pattern_default_3.png",
+              "selected": "Theme_pattern/Color/pattern_selected_3.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_3.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 4,
+              "background": "Theme_pattern/Color/background_4.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_4.png",
+              "default": "Theme_pattern/Color/pattern_default_4.png",
+              "selected": "Theme_pattern/Color/pattern_selected_4.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_4.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 5,
+              "background": "Theme_pattern/Color/background_5.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_5.png",
+              "default": "Theme_pattern/Color/pattern_default_5.png",
+              "selected": "Theme_pattern/Color/pattern_selected_5.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_5.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 6,
+              "background": "Theme_pattern/Color/background_6.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_6.png",
+              "default": "Theme_pattern/Color/pattern_default_6.png",
+              "selected": "Theme_pattern/Color/pattern_selected_6.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_6.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 7,
+              "background": "Theme_pattern/Color/background_7.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_7.png",
+              "default": "Theme_pattern/Color/pattern_default_7.png",
+              "selected": "Theme_pattern/Color/pattern_selected_7.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_7.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 8,
+              "background": "Theme_pattern/Color/background_8.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_8.png",
+              "default": "Theme_pattern/Color/pattern_default_8.png",
+              "selected": "Theme_pattern/Color/pattern_selected_8.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_8.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 9,
+              "background": "Theme_pattern/Color/background_9.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_9.png",
+              "default": "Theme_pattern/Color/pattern_default_9.png",
+              "selected": "Theme_pattern/Color/pattern_selected_9.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_9.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 10,
+              "background": "Theme_pattern/Color/background_10.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_10.png",
+              "default": "Theme_pattern/Color/pattern_default_10.png",
+              "selected": "Theme_pattern/Color/pattern_selected_10.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_10.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 11,
+              "background": "Theme_pattern/Color/background_11.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_11.png",
+              "default": "Theme_pattern/Color/pattern_default_11.png",
+              "selected": "Theme_pattern/Color/pattern_selected_11.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_11.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 12,
+              "background": "Theme_pattern/Color/background_12.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_12.png",
+              "default": "Theme_pattern/Color/pattern_default_12.png",
+              "selected": "Theme_pattern/Color/pattern_selected_12.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_12.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 13,
+              "background": "Theme_pattern/Color/background_13.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_13.png",
+              "default": "Theme_pattern/Color/pattern_default_13.png",
+              "selected": "Theme_pattern/Color/pattern_selected_13.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_13.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 14,
+              "background": "Theme_pattern/Color/background_14.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_14.png",
+              "default": "Theme_pattern/Color/pattern_default_14.png",
+              "selected": "Theme_pattern/Color/pattern_selected_14.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_14.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 15,
+              "background": "Theme_pattern/Color/background_15.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_15.png",
+              "default": "Theme_pattern/Color/pattern_default_15.png",
+              "selected": "Theme_pattern/Color/pattern_selected_15.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_15.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 16,
+              "background": "Theme_pattern/Color/background_16.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_16.png",
+              "default": "Theme_pattern/Color/pattern_default_16.png",
+              "selected": "Theme_pattern/Color/pattern_selected_16.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_16.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 17,
+              "background": "Theme_pattern/Color/background_17.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_17.png",
+              "default": "Theme_pattern/Color/pattern_default_17.png",
+              "selected": "Theme_pattern/Color/pattern_selected_17.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_17.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 18,
+              "background": "Theme_pattern/Color/background_18.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_18.png",
+              "default": "Theme_pattern/Color/pattern_default_18.png",
+              "selected": "Theme_pattern/Color/pattern_selected_18.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_18.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 19,
+              "background": "Theme_pattern/Color/background_19.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_19.png",
+              "default": "Theme_pattern/Color/pattern_default_19.png",
+              "selected": "Theme_pattern/Color/pattern_selected_19.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_19.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            }
+          ]
         }
       ]
     }

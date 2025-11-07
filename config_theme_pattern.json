@@ -1256,7 +1256,7 @@
           "patterns": [
             {
               "id": 0,
-              "background": "Theme_pattern/Color/background_0.jpg",
+              "background": "#D487BB",
               "type_lock": "Theme_pattern/Color/pattern_preview_0.png",
               "default": "Theme_pattern/Color/pattern_default_0.png",
               "selected": "Theme_pattern/Color/pattern_selected_0.png",
@@ -1266,7 +1266,7 @@
             },
             {
               "id": 1,
-              "background": "Theme_pattern/Color/background_1.jpg",
+              "background": "#E15997",
               "type_lock": "Theme_pattern/Color/pattern_preview_1.png",
               "default": "Theme_pattern/Color/pattern_default_1.png",
               "selected": "Theme_pattern/Color/pattern_selected_1.png",

@@ -5,65 +5,354 @@
         {
           "category_name": "Animal",
   	  "category_count": 10,
-          "background": "Theme_pattern/Anime/background_",
- 	  "pattern_preview": "Theme_pattern/Anime/pattern_preview_",
-	  "pattern_default": "Theme_pattern/Anime/pattern_default_",
-          "pattern_selected": "Theme_pattern/Anime/pattern_selected_",
-          "pattern_wrong": "Theme_pattern/Anime/pattern_selected_",
-          "line_color_right": "#CCFFFFFF",
-  	  "line_color_wrong": "#CCFFFFFF"
+	  "patterns":[
+		{
+		"id": 0,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 1,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 2,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 3,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 4,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 5,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 6,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 7,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 8,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 9,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 10,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		}
+	    ]
         }
       ],
-      "category_2": [
+       "category_2": [
         {
-                "category_name": "Animal",
+          "category_name": "Animal",
   	  "category_count": 10,
-          "background": "Theme_pattern/Anime/background_",
- 	  "pattern_preview": "Theme_pattern/Anime/pattern_preview_",
-	  "pattern_default": "Theme_pattern/Anime/pattern_default_",
-          "pattern_selected": "Theme_pattern/Anime/pattern_selected_",
-          "pattern_wrong": "Theme_pattern/Anime/pattern_selected_",
-          "line_color_right": "#CCFFFFFF",
-  	  "line_color_wrong": "#CCFFFFFF"
+	  "patterns":[
+		{
+		"id": 0,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 1,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 2,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 3,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 4,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 5,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 6,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 7,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 8,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 9,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 10,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		}
+	    ]
         }
       ],
-    "category_3": [
+     "category_3": [
         {
-                   "category_name": "Animal",
+          "category_name": "Animal",
   	  "category_count": 10,
-          "background": "Theme_pattern/Anime/background_",
- 	  "pattern_preview": "Theme_pattern/Anime/pattern_preview_",
-	  "pattern_default": "Theme_pattern/Anime/pattern_default_",
-          "pattern_selected": "Theme_pattern/Anime/pattern_selected_",
-          "pattern_wrong": "Theme_pattern/Anime/pattern_selected_",
-          "line_color_right": "#CCFFFFFF",
-  	  "line_color_wrong": "#CCFFFFFF"
-        }
-      ],
-    "category_4": [
-        {
-                "category_name": "Animal",
-  	  "category_count": 10,
-          "background": "Theme_pattern/Anime/background_",
- 	  "pattern_preview": "Theme_pattern/Anime/pattern_preview_",
-	  "pattern_default": "Theme_pattern/Anime/pattern_default_",
-          "pattern_selected": "Theme_pattern/Anime/pattern_selected_",
-          "pattern_wrong": "Theme_pattern/Anime/pattern_selected_",
-          "line_color_right": "#CCFFFFFF",
-  	  "line_color_wrong": "#CCFFFFFF"
-        }
-      ],
-    "category_5": [
-        {
-             "category_name": "Animal",
-  	  "category_count": 10,
-          "background": "Theme_pattern/Anime/background_",
- 	  "pattern_preview": "Theme_pattern/Anime/pattern_preview_",
-	  "pattern_default": "Theme_pattern/Anime/pattern_default_",
-          "pattern_selected": "Theme_pattern/Anime/pattern_selected_",
-          "pattern_wrong": "Theme_pattern/Anime/pattern_selected_",
-          "line_color_right": "#CCFFFFFF",
-  	  "line_color_wrong": "#CCFFFFFF"
+	  "patterns":[
+		{
+		"id": 0,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 1,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 2,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 3,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 4,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 5,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 6,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 7,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 8,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 9,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		},
+		{
+		"id": 10,
+		"background": "Theme_pattern/Anime/background_0",
+		"type_lock": "Theme_pattern/Anime/pattern_preview_0",
+		"default": "Theme_pattern/Anime/pattern_default_0",
+		"selected": "Theme_pattern/Anime/pattern_selected_0", 
+   		"wrong": "Theme_pattern/Anime/pattern_selected_0",
+		"line_color_right": "#CCFFFFFF",
+  	 	"line_color_wrong": "#CCFFFFFF"
+		}
+	    ]
         }
       ]
     }

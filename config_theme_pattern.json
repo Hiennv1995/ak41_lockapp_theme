@@ -8,7 +8,7 @@
           "patterns": [
             {
               "id": 0,
-              "background": "Theme_pattern/Gradient/background_0.jpg",
+              "background": "Theme_pattern/Gradient/background_1.jpg",
               "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_0.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_0.png",
@@ -18,8 +18,8 @@
             },
             {
               "id": 1,
-              "background": "Theme_pattern/Gradient/background_1.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_1.png",
+              "background": "Theme_pattern/Gradient/background_2.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_1.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_1.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_1.png",
@@ -28,8 +28,8 @@
             },
             {
               "id": 2,
-              "background": "Theme_pattern/Gradient/background_2.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_2.png",
+              "background": "Theme_pattern/Gradient/background_3.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_2.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_2.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_2.png",
@@ -38,8 +38,8 @@
             },
             {
               "id": 3,
-              "background": "Theme_pattern/Gradient/background_3.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_3.png",
+              "background": "Theme_pattern/Gradient/background_4.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_3.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_3.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_3.png",
@@ -48,8 +48,8 @@
             },
             {
               "id": 4,
-              "background": "Theme_pattern/Gradient/background_4.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_4.png",
+              "background": "Theme_pattern/Gradient/background_5.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_4.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_4.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_4.png",
@@ -58,8 +58,8 @@
             },
             {
               "id": 5,
-              "background": "Theme_pattern/Gradient/background_5.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_5.png",
+              "background": "Theme_pattern/Gradient/background_6.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_5.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_5.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_5.png",
@@ -68,8 +68,8 @@
             },
             {
               "id": 6,
-              "background": "Theme_pattern/Gradient/background_6.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_6.png",
+              "background": "Theme_pattern/Gradient/background_7.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_6.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_6.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_6.png",
@@ -78,8 +78,8 @@
             },
             {
               "id": 7,
-              "background": "Theme_pattern/Gradient/background_7.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_7.png",
+              "background": "Theme_pattern/Gradient/background_8.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_7.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_7.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_7.png",
@@ -88,8 +88,8 @@
             },
             {
               "id": 8,
-              "background": "Theme_pattern/Gradient/background_8.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_8.png",
+              "background": "Theme_pattern/Gradient/background_9.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_8.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_8.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_8.png",
@@ -98,8 +98,8 @@
             },
             {
               "id": 9,
-              "background": "Theme_pattern/Gradient/background_9.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_9.png",
+              "background": "Theme_pattern/Gradient/background_10.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_9.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_9.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_9.png",
@@ -108,8 +108,8 @@
             },
             {
               "id": 10,
-              "background": "Theme_pattern/Gradient/background_10.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_10.png",
+              "background": "Theme_pattern/Gradient/background_11.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_10.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_10.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_10.png",
@@ -118,8 +118,8 @@
             },
             {
               "id": 11,
-              "background": "Theme_pattern/Gradient/background_11.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_11.png",
+              "background": "Theme_pattern/Gradient/background_12.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_11.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_11.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_11.png",
@@ -128,8 +128,8 @@
             },
             {
               "id": 12,
-              "background": "Theme_pattern/Gradient/background_12.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_12.png",
+              "background": "Theme_pattern/Gradient/background_13.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_12.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_12.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_12.png",
@@ -138,8 +138,8 @@
             },
             {
               "id": 13,
-              "background": "Theme_pattern/Gradient/background_13.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_13.png",
+              "background": "Theme_pattern/Gradient/background_14.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_13.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_13.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_13.png",
@@ -148,8 +148,8 @@
             },
             {
               "id": 14,
-              "background": "Theme_pattern/Gradient/background_14.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_14.png",
+              "background": "Theme_pattern/Gradient/background_15.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_14.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_14.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_14.png",
@@ -158,8 +158,8 @@
             },
             {
               "id": 15,
-              "background": "Theme_pattern/Gradient/background_15.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_15.png",
+              "background": "Theme_pattern/Gradient/background_16.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_15.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_15.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_15.png",
@@ -168,8 +168,8 @@
             },
             {
               "id": 16,
-              "background": "Theme_pattern/Gradient/background_16.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_16.png",
+              "background": "Theme_pattern/Gradient/background_17.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_16.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_16.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_16.png",
@@ -178,8 +178,8 @@
             },
             {
               "id": 17,
-              "background": "Theme_pattern/Gradient/background_17.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_17.png",
+              "background": "Theme_pattern/Gradient/background_18.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_17.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_17.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_17.png",
@@ -188,8 +188,8 @@
             },
             {
               "id": 18,
-              "background": "Theme_pattern/Gradient/background_18.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_18.png",
+              "background": "Theme_pattern/Gradient/background_119.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_18.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_18.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_18.png",
@@ -198,8 +198,8 @@
             },
             {
               "id": 19,
-              "background": "Theme_pattern/Gradient/background_19.jpg",
-              "type_lock": "Theme_pattern/Gradient/pattern_preview_19.png",
+              "background": "Theme_pattern/Gradient/background_20.jpg",
+              "type_lock": "Theme_pattern/Gradient/pattern_preview_0.png",
               "default": "Theme_pattern/Gradient/pattern_default_19.png",
               "selected": "Theme_pattern/Gradient/pattern_selected_19.png",
               "wrong": "Theme_pattern/Gradient/pattern_selected_19.png",
@@ -221,8 +221,8 @@
               "default": "Theme_pattern/Emoji/pattern_default_0.png",
               "selected": "Theme_pattern/Emoji/pattern_selected_0.png",
               "wrong": "Theme_pattern/Emoji/pattern_selected_0.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#CCFF0004",
+              "line_color_wrong": "#CCFF0004"
             },
             {
               "id": 1,
@@ -231,8 +231,8 @@
               "default": "Theme_pattern/Emoji/pattern_default_1.png",
               "selected": "Theme_pattern/Emoji/pattern_selected_1.png",
               "wrong": "Theme_pattern/Emoji/pattern_selected_1.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#CCFF831E",
+              "line_color_wrong": "#CCFF831E"
             },
             {
               "id": 2,
@@ -241,8 +241,8 @@
               "default": "Theme_pattern/Emoji/pattern_default_2.png",
               "selected": "Theme_pattern/Emoji/pattern_selected_2.png",
               "wrong": "Theme_pattern/Emoji/pattern_selected_2.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#CCC55EF7",
+              "line_color_wrong": "#CCC55EF7 "
             },
             {
               "id": 3,
@@ -251,8 +251,8 @@
               "default": "Theme_pattern/Emoji/pattern_default_3.png",
               "selected": "Theme_pattern/Emoji/pattern_selected_3.png",
               "wrong": "Theme_pattern/Emoji/pattern_selected_3.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#CCFFA300",
+              "line_color_wrong": "#CCFFA300"
             },
             {
               "id": 4,
@@ -261,8 +261,8 @@
               "default": "Theme_pattern/Emoji/pattern_default_4.png",
               "selected": "Theme_pattern/Emoji/pattern_selected_4.png",
               "wrong": "Theme_pattern/Emoji/pattern_selected_4.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#CCF32778",
+              "line_color_wrong": "#CCF32778"
             },
             {
               "id": 5,
@@ -271,8 +271,8 @@
               "default": "Theme_pattern/Emoji/pattern_default_5.png",
               "selected": "Theme_pattern/Emoji/pattern_selected_5.png",
               "wrong": "Theme_pattern/Emoji/pattern_selected_5.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#CCF9F06F",
+              "line_color_wrong": "#CCF9F06F"
             },
             {
               "id": 6,
@@ -281,8 +281,8 @@
               "default": "Theme_pattern/Emoji/pattern_default_6.png",
               "selected": "Theme_pattern/Emoji/pattern_selected_6.png",
               "wrong": "Theme_pattern/Emoji/pattern_selected_6.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#CCFF3662",
+              "line_color_wrong": "#CCFF3662"
             },
             {
               "id": 7,
@@ -291,8 +291,8 @@
               "default": "Theme_pattern/Emoji/pattern_default_7.png",
               "selected": "Theme_pattern/Emoji/pattern_selected_7.png",
               "wrong": "Theme_pattern/Emoji/pattern_selected_7.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#CC642AFF",
+              "line_color_wrong": "#CC642AFF"
             },
             {
               "id": 8,
@@ -301,8 +301,8 @@
               "default": "Theme_pattern/Emoji/pattern_default_8.png",
               "selected": "Theme_pattern/Emoji/pattern_selected_8.png",
               "wrong": "Theme_pattern/Emoji/pattern_selected_8.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
             },
             {
               "id": 9,
@@ -311,109 +311,9 @@
               "default": "Theme_pattern/Emoji/pattern_default_9.png",
               "selected": "Theme_pattern/Emoji/pattern_selected_9.png",
               "wrong": "Theme_pattern/Emoji/pattern_selected_9.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 10,
-              "background": "Theme_pattern/Emoji/background_10.jpg",
-              "type_lock": "Theme_pattern/Emoji/pattern_preview_10.png",
-              "default": "Theme_pattern/Emoji/pattern_default_10.png",
-              "selected": "Theme_pattern/Emoji/pattern_selected_10.png",
-              "wrong": "Theme_pattern/Emoji/pattern_selected_10.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 11,
-              "background": "Theme_pattern/Emoji/background_11.jpg",
-              "type_lock": "Theme_pattern/Emoji/pattern_preview_11.png",
-              "default": "Theme_pattern/Emoji/pattern_default_11.png",
-              "selected": "Theme_pattern/Emoji/pattern_selected_11.png",
-              "wrong": "Theme_pattern/Emoji/pattern_selected_11.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 12,
-              "background": "Theme_pattern/Emoji/background_12.jpg",
-              "type_lock": "Theme_pattern/Emoji/pattern_preview_12.png",
-              "default": "Theme_pattern/Emoji/pattern_default_12.png",
-              "selected": "Theme_pattern/Emoji/pattern_selected_12.png",
-              "wrong": "Theme_pattern/Emoji/pattern_selected_12.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 13,
-              "background": "Theme_pattern/Emoji/background_13.jpg",
-              "type_lock": "Theme_pattern/Emoji/pattern_preview_13.png",
-              "default": "Theme_pattern/Emoji/pattern_default_13.png",
-              "selected": "Theme_pattern/Emoji/pattern_selected_13.png",
-              "wrong": "Theme_pattern/Emoji/pattern_selected_13.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 14,
-              "background": "Theme_pattern/Emoji/background_14.jpg",
-              "type_lock": "Theme_pattern/Emoji/pattern_preview_14.png",
-              "default": "Theme_pattern/Emoji/pattern_default_14.png",
-              "selected": "Theme_pattern/Emoji/pattern_selected_14.png",
-              "wrong": "Theme_pattern/Emoji/pattern_selected_14.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 15,
-              "background": "Theme_pattern/Emoji/background_15.jpg",
-              "type_lock": "Theme_pattern/Emoji/pattern_preview_15.png",
-              "default": "Theme_pattern/Emoji/pattern_default_15.png",
-              "selected": "Theme_pattern/Emoji/pattern_selected_15.png",
-              "wrong": "Theme_pattern/Emoji/pattern_selected_15.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 16,
-              "background": "Theme_pattern/Emoji/background_16.jpg",
-              "type_lock": "Theme_pattern/Emoji/pattern_preview_16.png",
-              "default": "Theme_pattern/Emoji/pattern_default_16.png",
-              "selected": "Theme_pattern/Emoji/pattern_selected_16.png",
-              "wrong": "Theme_pattern/Emoji/pattern_selected_16.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 17,
-              "background": "Theme_pattern/Emoji/background_17.jpg",
-              "type_lock": "Theme_pattern/Emoji/pattern_preview_17.png",
-              "default": "Theme_pattern/Emoji/pattern_default_17.png",
-              "selected": "Theme_pattern/Emoji/pattern_selected_17.png",
-              "wrong": "Theme_pattern/Emoji/pattern_selected_17.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 18,
-              "background": "Theme_pattern/Emoji/background_18.jpg",
-              "type_lock": "Theme_pattern/Emoji/pattern_preview_18.png",
-              "default": "Theme_pattern/Emoji/pattern_default_18.png",
-              "selected": "Theme_pattern/Emoji/pattern_selected_18.png",
-              "wrong": "Theme_pattern/Emoji/pattern_selected_18.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 19,
-              "background": "Theme_pattern/Emoji/background_19.jpg",
-              "type_lock": "Theme_pattern/Emoji/pattern_preview_19.png",
-              "default": "Theme_pattern/Emoji/pattern_default_19.png",
-              "selected": "Theme_pattern/Emoji/pattern_selected_19.png",
-              "wrong": "Theme_pattern/Emoji/pattern_selected_19.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            }
+              "line_color_right": "#CC04D93A",
+              "line_color_wrong": "#CC04D93A"
+            } 
           ]
         }
       ],
@@ -429,8 +329,8 @@
               "default": "Theme_pattern/Cute/pattern_default_0.png",
               "selected": "Theme_pattern/Cute/pattern_selected_0.png",
               "wrong": "Theme_pattern/Cute/pattern_selected_0.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#23D000",
+              "line_color_wrong": "#23D000"
             },
             {
               "id": 1,
@@ -439,8 +339,8 @@
               "default": "Theme_pattern/Cute/pattern_default_1.png",
               "selected": "Theme_pattern/Cute/pattern_selected_1.png",
               "wrong": "Theme_pattern/Cute/pattern_selected_1.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#FFA100",
+              "line_color_wrong": "#FFA100"
             },
             {
               "id": 2,
@@ -449,8 +349,8 @@
               "default": "Theme_pattern/Cute/pattern_default_2.png",
               "selected": "Theme_pattern/Cute/pattern_selected_2.png",
               "wrong": "Theme_pattern/Cute/pattern_selected_2.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#8FC273",
+              "line_color_wrong": "#8FC273"
             },
             {
               "id": 3,
@@ -459,8 +359,8 @@
               "default": "Theme_pattern/Cute/pattern_default_3.png",
               "selected": "Theme_pattern/Cute/pattern_selected_3.png",
               "wrong": "Theme_pattern/Cute/pattern_selected_3.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#F05D73",
+              "line_color_wrong": "#F05D73"
             },
             {
               "id": 4,
@@ -469,8 +369,8 @@
               "default": "Theme_pattern/Cute/pattern_default_4.png",
               "selected": "Theme_pattern/Cute/pattern_selected_4.png",
               "wrong": "Theme_pattern/Cute/pattern_selected_4.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#FF3662",
+              "line_color_wrong": "#FF3662"
             },
             {
               "id": 5,
@@ -479,8 +379,8 @@
               "default": "Theme_pattern/Cute/pattern_default_5.png",
               "selected": "Theme_pattern/Cute/pattern_selected_5.png",
               "wrong": "Theme_pattern/Cute/pattern_selected_5.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#FFA100",
+              "line_color_wrong": "#FFA100"
             },
             {
               "id": 6,
@@ -489,8 +389,8 @@
               "default": "Theme_pattern/Cute/pattern_default_6.png",
               "selected": "Theme_pattern/Cute/pattern_selected_6.png",
               "wrong": "Theme_pattern/Cute/pattern_selected_6.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#C39350",
+              "line_color_wrong": "#C39350"
             },
             {
               "id": 7,
@@ -499,8 +399,8 @@
               "default": "Theme_pattern/Cute/pattern_default_7.png",
               "selected": "Theme_pattern/Cute/pattern_selected_7.png",
               "wrong": "Theme_pattern/Cute/pattern_selected_7.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#F9F06F",
+              "line_color_wrong": "#F9F06F"
             },
             {
               "id": 8,
@@ -509,8 +409,8 @@
               "default": "Theme_pattern/Cute/pattern_default_8.png",
               "selected": "Theme_pattern/Cute/pattern_selected_8.png",
               "wrong": "Theme_pattern/Cute/pattern_selected_8.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#FF7A8E",
+              "line_color_wrong": "#FF7A8E"
             },
             {
               "id": 9,
@@ -519,8 +419,8 @@
               "default": "Theme_pattern/Cute/pattern_default_9.png",
               "selected": "Theme_pattern/Cute/pattern_selected_9.png",
               "wrong": "Theme_pattern/Cute/pattern_selected_9.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#04D93A",
+              "line_color_wrong": "#04D93A"
             },
             {
               "id": 10,
@@ -529,98 +429,8 @@
               "default": "Theme_pattern/Cute/pattern_default_10.png",
               "selected": "Theme_pattern/Cute/pattern_selected_10.png",
               "wrong": "Theme_pattern/Cute/pattern_selected_10.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 11,
-              "background": "Theme_pattern/Cute/background_11.jpg",
-              "type_lock": "Theme_pattern/Cute/pattern_preview_11.png",
-              "default": "Theme_pattern/Cute/pattern_default_11.png",
-              "selected": "Theme_pattern/Cute/pattern_selected_11.png",
-              "wrong": "Theme_pattern/Cute/pattern_selected_11.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 12,
-              "background": "Theme_pattern/Cute/background_12.jpg",
-              "type_lock": "Theme_pattern/Cute/pattern_preview_12.png",
-              "default": "Theme_pattern/Cute/pattern_default_12.png",
-              "selected": "Theme_pattern/Cute/pattern_selected_12.png",
-              "wrong": "Theme_pattern/Cute/pattern_selected_12.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 13,
-              "background": "Theme_pattern/Cute/background_13.jpg",
-              "type_lock": "Theme_pattern/Cute/pattern_preview_13.png",
-              "default": "Theme_pattern/Cute/pattern_default_13.png",
-              "selected": "Theme_pattern/Cute/pattern_selected_13.png",
-              "wrong": "Theme_pattern/Cute/pattern_selected_13.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 14,
-              "background": "Theme_pattern/Cute/background_14.jpg",
-              "type_lock": "Theme_pattern/Cute/pattern_preview_14.png",
-              "default": "Theme_pattern/Cute/pattern_default_14.png",
-              "selected": "Theme_pattern/Cute/pattern_selected_14.png",
-              "wrong": "Theme_pattern/Cute/pattern_selected_14.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 15,
-              "background": "Theme_pattern/Cute/background_15.jpg",
-              "type_lock": "Theme_pattern/Cute/pattern_preview_15.png",
-              "default": "Theme_pattern/Cute/pattern_default_15.png",
-              "selected": "Theme_pattern/Cute/pattern_selected_15.png",
-              "wrong": "Theme_pattern/Cute/pattern_selected_15.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 16,
-              "background": "Theme_pattern/Cute/background_16.jpg",
-              "type_lock": "Theme_pattern/Cute/pattern_preview_16.png",
-              "default": "Theme_pattern/Cute/pattern_default_16.png",
-              "selected": "Theme_pattern/Cute/pattern_selected_16.png",
-              "wrong": "Theme_pattern/Cute/pattern_selected_16.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 17,
-              "background": "Theme_pattern/Cute/background_17.jpg",
-              "type_lock": "Theme_pattern/Cute/pattern_preview_17.png",
-              "default": "Theme_pattern/Cute/pattern_default_17.png",
-              "selected": "Theme_pattern/Cute/pattern_selected_17.png",
-              "wrong": "Theme_pattern/Cute/pattern_selected_17.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 18,
-              "background": "Theme_pattern/Cute/background_18.jpg",
-              "type_lock": "Theme_pattern/Cute/pattern_preview_18.png",
-              "default": "Theme_pattern/Cute/pattern_default_18.png",
-              "selected": "Theme_pattern/Cute/pattern_selected_18.png",
-              "wrong": "Theme_pattern/Cute/pattern_selected_18.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 19,
-              "background": "Theme_pattern/Cute/background_19.jpg",
-              "type_lock": "Theme_pattern/Cute/pattern_preview_19.png",
-              "default": "Theme_pattern/Cute/pattern_default_19.png",
-              "selected": "Theme_pattern/Cute/pattern_selected_19.png",
-              "wrong": "Theme_pattern/Cute/pattern_selected_19.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
             }
           ]
         }
@@ -637,8 +447,8 @@
               "default": "Theme_pattern/Love/pattern_default_0.png",
               "selected": "Theme_pattern/Love/pattern_selected_0.png",
               "wrong": "Theme_pattern/Love/pattern_selected_0.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#D43A3E",
+              "line_color_wrong": "#D43A3E"
             },
             {
               "id": 1,
@@ -647,18 +457,18 @@
               "default": "Theme_pattern/Love/pattern_default_1.png",
               "selected": "Theme_pattern/Love/pattern_selected_1.png",
               "wrong": "Theme_pattern/Love/pattern_selected_1.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#FEAB43",
+              "line_color_wrong": "#FEAB43"
             },
             {
               "id": 2,
               "background": "Theme_pattern/Love/background_2.jpg",
               "type_lock": "Theme_pattern/Love/pattern_preview_2.png",
-              "default": "Theme_pattern/Love/pattern_default_2.png",
+              "default": "Theme_pattern/Love/pat tern_default_2.png",
               "selected": "Theme_pattern/Love/pattern_selected_2.png",
               "wrong": "Theme_pattern/Love/pattern_selected_2.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#FF7A8E",
+              "line_color_wrong": "#FF7A8E"
             },
             {
               "id": 3,
@@ -667,8 +477,8 @@
               "default": "Theme_pattern/Love/pattern_default_3.png",
               "selected": "Theme_pattern/Love/pattern_selected_3.png",
               "wrong": "Theme_pattern/Love/pattern_selected_3.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#F4914A",
+              "line_color_wrong": "#F4914A"
             },
             {
               "id": 4,
@@ -677,8 +487,8 @@
               "default": "Theme_pattern/Love/pattern_default_4.png",
               "selected": "Theme_pattern/Love/pattern_selected_4.png",
               "wrong": "Theme_pattern/Love/pattern_selected_4.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#FF9DCA",
+              "line_color_wrong": "#FF9DCA"
             },
             {
               "id": 5,
@@ -687,8 +497,8 @@
               "default": "Theme_pattern/Love/pattern_default_5.png",
               "selected": "Theme_pattern/Love/pattern_selected_5.png",
               "wrong": "Theme_pattern/Love/pattern_selected_5.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#99FFFFFF", 
+              "line_color_wrong": "#99FFFFFF"
             },
             {
               "id": 6,
@@ -697,8 +507,8 @@
               "default": "Theme_pattern/Love/pattern_default_6.png",
               "selected": "Theme_pattern/Love/pattern_selected_6.png",
               "wrong": "Theme_pattern/Love/pattern_selected_6.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#FFE262",
+              "line_color_wrong": "#FFE262 "
             },
             {
               "id": 7,
@@ -707,8 +517,8 @@
               "default": "Theme_pattern/Love/pattern_default_7.png",
               "selected": "Theme_pattern/Love/pattern_selected_7.png",
               "wrong": "Theme_pattern/Love/pattern_selected_7.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#FF9DCA",
+              "line_color_wrong": "#FF9DCA"
             },
             {
               "id": 8,
@@ -717,8 +527,8 @@
               "default": "Theme_pattern/Love/pattern_default_8.png",
               "selected": "Theme_pattern/Love/pattern_selected_8.png",
               "wrong": "Theme_pattern/Love/pattern_selected_8.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#FA9E5A",
+              "line_color_wrong": "#FA9E5A"
             },
             {
               "id": 9,
@@ -727,8 +537,8 @@
               "default": "Theme_pattern/Love/pattern_default_9.png",
               "selected": "Theme_pattern/Love/pattern_selected_9.png",
               "wrong": "Theme_pattern/Love/pattern_selected_9.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#B1DAFF",
+              "line_color_wrong": "#B1DAFF"
             },
             {
               "id": 10,
@@ -737,98 +547,8 @@
               "default": "Theme_pattern/Love/pattern_default_10.png",
               "selected": "Theme_pattern/Love/pattern_selected_10.png",
               "wrong": "Theme_pattern/Love/pattern_selected_10.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 11,
-              "background": "Theme_pattern/Love/background_11.jpg",
-              "type_lock": "Theme_pattern/Love/pattern_preview_11.png",
-              "default": "Theme_pattern/Love/pattern_default_11.png",
-              "selected": "Theme_pattern/Love/pattern_selected_11.png",
-              "wrong": "Theme_pattern/Love/pattern_selected_11.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 12,
-              "background": "Theme_pattern/Love/background_12.jpg",
-              "type_lock": "Theme_pattern/Love/pattern_preview_12.png",
-              "default": "Theme_pattern/Love/pattern_default_12.png",
-              "selected": "Theme_pattern/Love/pattern_selected_12.png",
-              "wrong": "Theme_pattern/Love/pattern_selected_12.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 13,
-              "background": "Theme_pattern/Love/background_13.jpg",
-              "type_lock": "Theme_pattern/Love/pattern_preview_13.png",
-              "default": "Theme_pattern/Love/pattern_default_13.png",
-              "selected": "Theme_pattern/Love/pattern_selected_13.png",
-              "wrong": "Theme_pattern/Love/pattern_selected_13.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 14,
-              "background": "Theme_pattern/Love/background_14.jpg",
-              "type_lock": "Theme_pattern/Love/pattern_preview_14.png",
-              "default": "Theme_pattern/Love/pattern_default_14.png",
-              "selected": "Theme_pattern/Love/pattern_selected_14.png",
-              "wrong": "Theme_pattern/Love/pattern_selected_14.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 15,
-              "background": "Theme_pattern/Love/background_15.jpg",
-              "type_lock": "Theme_pattern/Love/pattern_preview_15.png",
-              "default": "Theme_pattern/Love/pattern_default_15.png",
-              "selected": "Theme_pattern/Love/pattern_selected_15.png",
-              "wrong": "Theme_pattern/Love/pattern_selected_15.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 16,
-              "background": "Theme_pattern/Love/background_16.jpg",
-              "type_lock": "Theme_pattern/Love/pattern_preview_16.png",
-              "default": "Theme_pattern/Love/pattern_default_16.png",
-              "selected": "Theme_pattern/Love/pattern_selected_16.png",
-              "wrong": "Theme_pattern/Love/pattern_selected_16.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 17,
-              "background": "Theme_pattern/Love/background_17.jpg",
-              "type_lock": "Theme_pattern/Love/pattern_preview_17.png",
-              "default": "Theme_pattern/Love/pattern_default_17.png",
-              "selected": "Theme_pattern/Love/pattern_selected_17.png",
-              "wrong": "Theme_pattern/Love/pattern_selected_17.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 18,
-              "background": "Theme_pattern/Love/background_18.jpg",
-              "type_lock": "Theme_pattern/Love/pattern_preview_18.png",
-              "default": "Theme_pattern/Love/pattern_default_18.png",
-              "selected": "Theme_pattern/Love/pattern_selected_18.png",
-              "wrong": "Theme_pattern/Love/pattern_selected_18.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 19,
-              "background": "Theme_pattern/Love/background_19.jpg",
-              "type_lock": "Theme_pattern/Love/pattern_preview_19.png",
-              "default": "Theme_pattern/Love/pattern_default_19.png",
-              "selected": "Theme_pattern/Love/pattern_selected_19.png",
-              "wrong": "Theme_pattern/Love/pattern_selected_19.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#FAA4BD",
+              "line_color_wrong": "#FAA4BD"
             }
           ]
         }
@@ -865,8 +585,8 @@
               "default": "Theme_pattern/Anime/pattern_default_2.png",
               "selected": "Theme_pattern/Anime/pattern_selected_2.png",
               "wrong": "Theme_pattern/Anime/pattern_selected_2.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
+              "line_color_right": "#CC00A58B",
+              "line_color_wrong": "#CC00A58B"
             },
             {
               "id": 3,
@@ -875,8 +595,8 @@
               "default": "Theme_pattern/Anime/pattern_default_3.png",
               "selected": "Theme_pattern/Anime/pattern_selected_3.png",
               "wrong": "Theme_pattern/Anime/pattern_selected_3.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
+              "line_color_right": "#CCFFEDE2",
+              "line_color_wrong": "#CCFFEDE2"
             },
             {
               "id": 4,
@@ -885,8 +605,8 @@
               "default": "Theme_pattern/Anime/pattern_default_4.png",
               "selected": "Theme_pattern/Anime/pattern_selected_4.png",
               "wrong": "Theme_pattern/Anime/pattern_selected_4.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
+              "line_color_right": "#CCFFEDE2",
+              "line_color_wrong": "#CCFFEDE2"
             },
             {
               "id": 5,
@@ -895,8 +615,8 @@
               "default": "Theme_pattern/Anime/pattern_default_5.png",
               "selected": "Theme_pattern/Anime/pattern_selected_5.png",
               "wrong": "Theme_pattern/Anime/pattern_selected_5.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
+              "line_color_right": "#CCFFEDE2",
+              "line_color_wrong": "#CCFFEDE2"
             },
             {
               "id": 6,
@@ -905,8 +625,8 @@
               "default": "Theme_pattern/Anime/pattern_default_6.png",
               "selected": "Theme_pattern/Anime/pattern_selected_6.png",
               "wrong": "Theme_pattern/Anime/pattern_selected_6.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
+              "line_color_right": "#CCFF7A8E",
+              "line_color_wrong": "#CCFF7A8E"
             },
             {
               "id": 7,
@@ -915,8 +635,8 @@
               "default": "Theme_pattern/Anime/pattern_default_7.png",
               "selected": "Theme_pattern/Anime/pattern_selected_7.png",
               "wrong": "Theme_pattern/Anime/pattern_selected_7.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
+              "line_color_right": "#CCFFC300",
+              "line_color_wrong": "#CCFFC300"
             },
             {
               "id": 8,
@@ -925,8 +645,8 @@
               "default": "Theme_pattern/Anime/pattern_default_8.png",
               "selected": "Theme_pattern/Anime/pattern_selected_8.png",
               "wrong": "Theme_pattern/Anime/pattern_selected_8.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
+              "line_color_right": "#CC83CD3A",
+              "line_color_wrong": "#CC83CD3A"
             },
             {
               "id": 9,
@@ -935,108 +655,8 @@
               "default": "Theme_pattern/Anime/pattern_default_9.png",
               "selected": "Theme_pattern/Anime/pattern_selected_9.png",
               "wrong": "Theme_pattern/Anime/pattern_selected_9.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
-            },
-            {
-              "id": 10,
-              "background": "Theme_pattern/Anime/background_10.jpg",
-              "type_lock": "Theme_pattern/Anime/pattern_preview_10.png",
-              "default": "Theme_pattern/Anime/pattern_default_10.png",
-              "selected": "Theme_pattern/Anime/pattern_selected_10.png",
-              "wrong": "Theme_pattern/Anime/pattern_selected_10.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
-            },
-            {
-              "id": 11,
-              "background": "Theme_pattern/Anime/background_11.jpg",
-              "type_lock": "Theme_pattern/Anime/pattern_preview_11.png",
-              "default": "Theme_pattern/Anime/pattern_default_11.png",
-              "selected": "Theme_pattern/Anime/pattern_selected_11.png",
-              "wrong": "Theme_pattern/Anime/pattern_selected_11.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
-            },
-            {
-              "id": 12,
-              "background": "Theme_pattern/Anime/background_12.jpg",
-              "type_lock": "Theme_pattern/Anime/pattern_preview_12.png",
-              "default": "Theme_pattern/Anime/pattern_default_12.png",
-              "selected": "Theme_pattern/Anime/pattern_selected_12.png",
-              "wrong": "Theme_pattern/Anime/pattern_selected_12.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
-            },
-            {
-              "id": 13,
-              "background": "Theme_pattern/Anime/background_13.jpg",
-              "type_lock": "Theme_pattern/Anime/pattern_preview_13.png",
-              "default": "Theme_pattern/Anime/pattern_default_13.png",
-              "selected": "Theme_pattern/Anime/pattern_selected_13.png",
-              "wrong": "Theme_pattern/Anime/pattern_selected_13.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
-            },
-            {
-              "id": 14,
-              "background": "Theme_pattern/Anime/background_14.jpg",
-              "type_lock": "Theme_pattern/Anime/pattern_preview_14.png",
-              "default": "Theme_pattern/Anime/pattern_default_14.png",
-              "selected": "Theme_pattern/Anime/pattern_selected_14.png",
-              "wrong": "Theme_pattern/Anime/pattern_selected_14.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
-            },
-            {
-              "id": 15,
-              "background": "Theme_pattern/Anime/background_15.jpg",
-              "type_lock": "Theme_pattern/Anime/pattern_preview_15.png",
-              "default": "Theme_pattern/Anime/pattern_default_15.png",
-              "selected": "Theme_pattern/Anime/pattern_selected_15.png",
-              "wrong": "Theme_pattern/Anime/pattern_selected_15.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
-            },
-            {
-              "id": 16,
-              "background": "Theme_pattern/Anime/background_16.jpg",
-              "type_lock": "Theme_pattern/Anime/pattern_preview_16.png",
-              "default": "Theme_pattern/Anime/pattern_default_16.png",
-              "selected": "Theme_pattern/Anime/pattern_selected_16.png",
-              "wrong": "Theme_pattern/Anime/pattern_selected_16.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
-            },
-            {
-              "id": 17,
-              "background": "Theme_pattern/Anime/background_17.jpg",
-              "type_lock": "Theme_pattern/Anime/pattern_preview_17.png",
-              "default": "Theme_pattern/Anime/pattern_default_17.png",
-              "selected": "Theme_pattern/Anime/pattern_selected_17.png",
-              "wrong": "Theme_pattern/Anime/pattern_selected_17.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
-            },
-            {
-              "id": 18,
-              "background": "Theme_pattern/Anime/background_18.jpg",
-              "type_lock": "Theme_pattern/Anime/pattern_preview_18.png",
-              "default": "Theme_pattern/Anime/pattern_default_18.png",
-              "selected": "Theme_pattern/Anime/pattern_selected_18.png",
-              "wrong": "Theme_pattern/Anime/pattern_selected_18.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
-            },
-            {
-              "id": 19,
-              "background": "Theme_pattern/Anime/background_19.jpg",
-              "type_lock": "Theme_pattern/Anime/pattern_preview_19.png",
-              "default": "Theme_pattern/Anime/pattern_default_19.png",
-              "selected": "Theme_pattern/Anime/pattern_selected_19.png",
-              "wrong": "Theme_pattern/Anime/pattern_selected_19.png",
-              "line_color_right": "#CCFFFFFF",
-              "line_color_wrong": "#CCFFFFFF"
+              "line_color_right": "#CC1C8672",
+              "line_color_wrong": "#CC1C8672"
             }
           ]
         }
@@ -1073,8 +693,8 @@
               "default": "Theme_pattern/Neon/pattern_default_2.png",
               "selected": "Theme_pattern/Neon/pattern_selected_2.png",
               "wrong": "Theme_pattern/Neon/pattern_selected_2.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#73BDF1FF",
+              "line_color_wrong": "#73BDF1FF"
             },
             {
               "id": 3,
@@ -1083,8 +703,8 @@
               "default": "Theme_pattern/Neon/pattern_default_3.png",
               "selected": "Theme_pattern/Neon/pattern_selected_3.png",
               "wrong": "Theme_pattern/Neon/pattern_selected_3.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#80FFD46E",
+              "line_color_wrong": "#80FFD46E"
             },
             {
               "id": 4,
@@ -1093,8 +713,8 @@
               "default": "Theme_pattern/Neon/pattern_default_4.png",
               "selected": "Theme_pattern/Neon/pattern_selected_4.png",
               "wrong": "Theme_pattern/Neon/pattern_selected_4.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#4DFFFFFF",
+              "line_color_wrong": "#4DFFFFFF"
             },
             {
               "id": 5,
@@ -1103,8 +723,8 @@
               "default": "Theme_pattern/Neon/pattern_default_5.png",
               "selected": "Theme_pattern/Neon/pattern_selected_5.png",
               "wrong": "Theme_pattern/Neon/pattern_selected_5.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#CCFF0000",
+              "line_color_wrong": "#CCFF0000"
             },
             {
               "id": 6,
@@ -1113,8 +733,8 @@
               "default": "Theme_pattern/Neon/pattern_default_6.png",
               "selected": "Theme_pattern/Neon/pattern_selected_6.png",
               "wrong": "Theme_pattern/Neon/pattern_selected_6.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#80E2F3FF",
+              "line_color_wrong": "#80E2F3FF"
             },
             {
               "id": 7,
@@ -1123,8 +743,8 @@
               "default": "Theme_pattern/Neon/pattern_default_7.png",
               "selected": "Theme_pattern/Neon/pattern_selected_7.png",
               "wrong": "Theme_pattern/Neon/pattern_selected_7.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#99FFEFBF",
+              "line_color_wrong": "#99FFEFBF"
             },
             {
               "id": 8,
@@ -1133,8 +753,8 @@
               "default": "Theme_pattern/Neon/pattern_default_8.png",
               "selected": "Theme_pattern/Neon/pattern_selected_8.png",
               "wrong": "Theme_pattern/Neon/pattern_selected_8.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#99F1D8FF",
+              "line_color_wrong": "#99F1D8FF"
             },
             {
               "id": 9,
@@ -1143,108 +763,8 @@
               "default": "Theme_pattern/Neon/pattern_default_9.png",
               "selected": "Theme_pattern/Neon/pattern_selected_9.png",
               "wrong": "Theme_pattern/Neon/pattern_selected_9.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 10,
-              "background": "Theme_pattern/Neon/background_10.jpg",
-              "type_lock": "Theme_pattern/Neon/pattern_preview_10.png",
-              "default": "Theme_pattern/Neon/pattern_default_10.png",
-              "selected": "Theme_pattern/Neon/pattern_selected_10.png",
-              "wrong": "Theme_pattern/Neon/pattern_selected_10.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 11,
-              "background": "Theme_pattern/Neon/background_11.jpg",
-              "type_lock": "Theme_pattern/Neon/pattern_preview_11.png",
-              "default": "Theme_pattern/Neon/pattern_default_11.png",
-              "selected": "Theme_pattern/Neon/pattern_selected_11.png",
-              "wrong": "Theme_pattern/Neon/pattern_selected_11.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 12,
-              "background": "Theme_pattern/Neon/background_12.jpg",
-              "type_lock": "Theme_pattern/Neon/pattern_preview_12.png",
-              "default": "Theme_pattern/Neon/pattern_default_12.png",
-              "selected": "Theme_pattern/Neon/pattern_selected_12.png",
-              "wrong": "Theme_pattern/Neon/pattern_selected_12.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 13,
-              "background": "Theme_pattern/Neon/background_13.jpg",
-              "type_lock": "Theme_pattern/Neon/pattern_preview_13.png",
-              "default": "Theme_pattern/Neon/pattern_default_13.png",
-              "selected": "Theme_pattern/Neon/pattern_selected_13.png",
-              "wrong": "Theme_pattern/Neon/pattern_selected_13.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 14,
-              "background": "Theme_pattern/Neon/background_14.jpg",
-              "type_lock": "Theme_pattern/Neon/pattern_preview_14.png",
-              "default": "Theme_pattern/Neon/pattern_default_14.png",
-              "selected": "Theme_pattern/Neon/pattern_selected_14.png",
-              "wrong": "Theme_pattern/Neon/pattern_selected_14.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 15,
-              "background": "Theme_pattern/Neon/background_15.jpg",
-              "type_lock": "Theme_pattern/Neon/pattern_preview_15.png",
-              "default": "Theme_pattern/Neon/pattern_default_15.png",
-              "selected": "Theme_pattern/Neon/pattern_selected_15.png",
-              "wrong": "Theme_pattern/Neon/pattern_selected_15.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 16,
-              "background": "Theme_pattern/Neon/background_16.jpg",
-              "type_lock": "Theme_pattern/Neon/pattern_preview_16.png",
-              "default": "Theme_pattern/Neon/pattern_default_16.png",
-              "selected": "Theme_pattern/Neon/pattern_selected_16.png",
-              "wrong": "Theme_pattern/Neon/pattern_selected_16.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 17,
-              "background": "Theme_pattern/Neon/background_17.jpg",
-              "type_lock": "Theme_pattern/Neon/pattern_preview_17.png",
-              "default": "Theme_pattern/Neon/pattern_default_17.png",
-              "selected": "Theme_pattern/Neon/pattern_selected_17.png",
-              "wrong": "Theme_pattern/Neon/pattern_selected_17.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 18,
-              "background": "Theme_pattern/Neon/background_18.jpg",
-              "type_lock": "Theme_pattern/Neon/pattern_preview_18.png",
-              "default": "Theme_pattern/Neon/pattern_default_18.png",
-              "selected": "Theme_pattern/Neon/pattern_selected_18.png",
-              "wrong": "Theme_pattern/Neon/pattern_selected_18.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
-            },
-            {
-              "id": 19,
-              "background": "Theme_pattern/Neon/background_19.jpg",
-              "type_lock": "Theme_pattern/Neon/pattern_preview_19.png",
-              "default": "Theme_pattern/Neon/pattern_default_19.png",
-              "selected": "Theme_pattern/Neon/pattern_selected_19.png",
-              "wrong": "Theme_pattern/Neon/pattern_selected_19.png",
-              "line_color_right": "#FFFFFF",
-              "line_color_wrong": "#FFFFFF"
+              "line_color_right": "#90FFFFFF",
+              "line_color_wrong": "#90FFFFFF"
             }
           ]
         }
@@ -1446,6 +966,66 @@
             },
             {
               "id": 19,
+              "background": "Theme_pattern/Color/background_19.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_19.png",
+              "default": "Theme_pattern/Color/pattern_default_19.png",
+              "selected": "Theme_pattern/Color/pattern_selected_19.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_19.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+ {
+              "id": 20,
+              "background": "Theme_pattern/Color/background_20.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_15.png",
+              "default": "Theme_pattern/Color/pattern_default_15.png",
+              "selected": "Theme_pattern/Color/pattern_selected_15.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_15.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 21,
+              "background": "Theme_pattern/Color/background_21.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_16.png",
+              "default": "Theme_pattern/Color/pattern_default_16.png",
+              "selected": "Theme_pattern/Color/pattern_selected_16.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_16.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 22,
+              "background": "Theme_pattern/Color/background_22.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_17.png",
+              "default": "Theme_pattern/Color/pattern_default_17.png",
+              "selected": "Theme_pattern/Color/pattern_selected_17.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_17.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 23,
+              "background": "Theme_pattern/Color/background_18.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_18.png",
+              "default": "Theme_pattern/Color/pattern_default_18.png",
+              "selected": "Theme_pattern/Color/pattern_selected_18.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_18.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 24,
+              "background": "Theme_pattern/Color/background_19.jpg",
+              "type_lock": "Theme_pattern/Color/pattern_preview_19.png",
+              "default": "Theme_pattern/Color/pattern_default_19.png",
+              "selected": "Theme_pattern/Color/pattern_selected_19.png",
+              "wrong": "Theme_pattern/Color/pattern_selected_19.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+	    { 
+              "id": 25,
               "background": "Theme_pattern/Color/background_19.jpg",
               "type_lock": "Theme_pattern/Color/pattern_preview_19.png",
               "default": "Theme_pattern/Color/pattern_default_19.png",

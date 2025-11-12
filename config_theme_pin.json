@@ -3,67 +3,1098 @@
     {
       "category_1": [
         {
-          "category_name": "Animal",
-  	  "category_count": 10,
-          "background": "Theme_pin/Anime/background_",
- 	  "pattern_preview": "Theme_pin/Anime/pattern_preview_",
-	  "pattern_default": "Theme_pin/Anime/pattern_default_",
-          "pattern_selected": "Theme_pin/Anime/pattern_selected_",
-          "pattern_wrong": "Theme_pin/Anime/pattern_selected_",
-          "line_color_right": "#CCFFFFFF",
-  	  "line_color_wrong": "#CCFFFFFF"
+          "category_name": "Gradient",
+          "category_count": 20,
+          "items": [
+            {
+              "id": 0,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 1,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 2,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 3,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 4,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 5,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 6,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 7,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 8,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 9,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 10,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 11,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 12,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 13,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 14,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 15,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 16,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 17,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 18,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 19,
+              "background": "Theme/Gradient/Pin/background.jpg",
+              "type_lock": "Theme/Gradient/Pin/pin_preview.png",
+              "default": "Theme/Gradient/Pin/pattern_default.png",
+              "selected": "Theme/Gradient/Pin/pattern_selected.png",
+              "wrong": "Theme/Gradient/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            }
+          ]
         }
       ],
       "category_2": [
         {
-                "category_name": "Animal",
-  	  "category_count": 10,
-          "background": "Theme_pattern/Anime/background_",
- 	  "pattern_preview": "Theme_pattern/Anime/pattern_preview_",
-	  "pattern_default": "Theme_pattern/Anime/pattern_default_",
-          "pattern_selected": "Theme_pattern/Anime/pattern_selected_",
-          "pattern_wrong": "Theme_pattern/Anime/pattern_selected_",
-          "line_color_right": "#CCFFFFFF",
-  	  "line_color_wrong": "#CCFFFFFF"
+          "category_name": "Emoji",
+          "category_count": 20,
+          "items": [
+            {
+              "id": 0,
+              "background": "Theme/Emoji/Pin/background_1.jpg",
+              "type_lock": "Theme/Emoji/Pin/pin_preview.png",
+              "default": "Theme/Emoji/Pin/1/pattern_default.png",
+              "selected": "Theme/Emoji/Pin/1/pattern_selected.png",
+              "wrong": "Theme/Emoji/Pin/1/pattern_selected.png",
+              "line_color_right": "#CCFF0004",
+              "line_color_wrong": "#CCFF0004"
+            },
+            {
+              "id": 1,
+              "background": "Theme/Emoji/Pin/background_2.jpg",
+              "type_lock": "Theme/Emoji/Pin/pin_preview.png",
+              "default": "Theme/Emoji/Pin/2/pattern_default.png",
+              "selected": "Theme/Emoji/Pin/2/pattern_selected.png",
+              "wrong": "Theme/Emoji/Pin/pattern_selected.png",
+              "line_color_right": "#CCFF831E",
+              "line_color_wrong": "#CCFF831E"
+            },
+            {
+              "id": 2,
+              "background": "Theme/Emoji/Pin/background_3.jpg",
+              "type_lock": "Theme/Emoji/Pin/pin_preview.png",
+              "default": "Theme/Emoji/Pin/3/pattern_default.png",
+              "selected": "Theme/Emoji/Pin/3/pattern_selected.png",
+              "wrong": "Theme/Emoji/Pin/3/pattern_selected.png",
+              "line_color_right": "#CCC55EF7",
+              "line_color_wrong": "#CCC55EF7 "
+            },
+            {
+              "id": 3,
+              "background": "Theme/Emoji/Pin/background_4.jpg",
+              "type_lock": "Theme/Emoji/Pin/pin_preview.png",
+              "default": "Theme/Emoji/Pin/4/pattern_default.png",
+              "selected": "Theme/Emoji/Pin/4/pattern_selected.png",
+              "wrong": "Theme/Emoji/Pin/4/pattern_selected.png",
+              "line_color_right": "#CCFFA300",
+              "line_color_wrong": "#CCFFA300"
+            },
+            {
+              "id": 4,
+              "background": "Theme/Emoji/Pin/background_5.jpg",
+              "type_lock": "Theme/Emoji/Pin/pin_preview.png",
+              "default": "Theme/Emoji/Pin/pattern_default.png",
+              "selected": "Theme/Emoji/Pin/pattern_selected.png",
+              "wrong": "Theme/Emoji/Pin/pattern_selected.png",
+              "line_color_right": "#CCF32778",
+              "line_color_wrong": "#CCF32778"
+            },
+            {
+              "id": 5,
+              "background": "Theme/Emoji/Pin/background_6.jpg",
+              "type_lock": "Theme/Emoji/Pin/pin_preview.png",
+              "default": "Theme/Emoji/Pin/pattern_default.png",
+              "selected": "Theme/Emoji/Pin/pattern_selected.png",
+              "wrong": "Theme/Emoji/Pin/pattern_selected.png",
+              "line_color_right": "#CCF9F06F",
+              "line_color_wrong": "#CCF9F06F"
+            },
+            {
+              "id": 6,
+              "background": "Theme/Emoji/Pin/background_7.jpg",
+              "type_lock": "Theme/Emoji/Pin/pin_preview.png",
+              "default": "Theme/Emoji/Pin/pattern_default.png",
+              "selected": "Theme/Emoji/Pin/pattern_selected.png",
+              "wrong": "Theme/Emoji/Pin/pattern_selected.png",
+              "line_color_right": "#CCFF3662",
+              "line_color_wrong": "#CCFF3662"
+            },
+            {
+              "id": 7,
+              "background": "Theme/Emoji/Pin/background_8.jpg",
+              "type_lock": "Theme/Emoji/Pin/pin_preview.png",
+              "default": "Theme/Emoji/Pin/pattern_default.png",
+              "selected": "Theme/Emoji/Pin/pattern_selected.png",
+              "wrong": "Theme/Emoji/Pin/pattern_selected.png",
+              "line_color_right": "#CC642AFF",
+              "line_color_wrong": "#CC642AFF"
+            },
+            {
+              "id": 8,
+              "background": "Theme/Emoji/Pin/background_9.jpg",
+              "type_lock": "Theme/Emoji/Pin/pin_preview.png",
+              "default": "Theme/Emoji/Pin/pattern_default.png",
+              "selected": "Theme/Emoji/Pin/pattern_selected.png",
+              "wrong": "Theme/Emoji/Pin/pattern_selected.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 9,
+              "background": "Theme/Emoji/Pin/background_10.jpg",
+              "type_lock": "Theme/Emoji/Pin/pin_preview.png",
+              "default": "Theme/Emoji/Pin/pattern_default.png",
+              "selected": "Theme/Emoji/Pin/pattern_selected.png",
+              "wrong": "Theme/Emoji/Pin/pattern_selected.png",
+              "line_color_right": "#CC04D93A",
+              "line_color_wrong": "#CC04D93A"
+            }
+          ]
         }
       ],
-    "category_3": [
+      "category_3": [
         {
-                   "category_name": "Animal",
-  	  "category_count": 10,
-          "background": "Theme_pattern/Anime/background_",
- 	  "pattern_preview": "Theme_pattern/Anime/pattern_preview_",
-	  "pattern_default": "Theme_pattern/Anime/pattern_default_",
-          "pattern_selected": "Theme_pattern/Anime/pattern_selected_",
-          "pattern_wrong": "Theme_pattern/Anime/pattern_selected_",
-          "line_color_right": "#CCFFFFFF",
-  	  "line_color_wrong": "#CCFFFFFF"
+          "category_name": "Cute",
+          "category_count": 20,
+          "items": [
+            {
+              "id": 0,
+              "background": "Theme/Cute/Pin/background_1.jpg",
+              "type_lock": "Theme/Cute/Pin/pin_preview.png",
+              "default": "Theme/Cute/Pin/pattern_default.png",
+              "selected": "Theme/Cute/Pin/pattern_selected.png",
+              "wrong": "Theme/Cute/Pin/pattern_selected.png",
+              "line_color_right": "#23D000",
+              "line_color_wrong": "#23D000"
+            },
+            {
+              "id": 1,
+              "background": "Theme/Cute/Pin/background_2.jpg",
+              "type_lock": "Theme/Cute/Pin/pin_preview.png",
+              "default": "Theme/Cute/Pin/pattern_default.png",
+              "selected": "Theme/Cute/Pin/pattern_selected.png",
+              "wrong": "Theme/Cute/Pin/pattern_selected.png",
+              "line_color_right": "#FFA100",
+              "line_color_wrong": "#FFA100"
+            },
+            {
+              "id": 2,
+              "background": "Theme/Cute/Pin/background_3.jpg",
+              "type_lock": "Theme/Cute/Pin/pin_preview.png",
+              "default": "Theme/Cute/Pin/pattern_default.png",
+              "selected": "Theme/Cute/Pin/pattern_selected.png",
+              "wrong": "Theme/Cute/Pin/pattern_selected.png",
+              "line_color_right": "#8FC273",
+              "line_color_wrong": "#8FC273"
+            },
+            {
+              "id": 3,
+              "background": "Theme/Cute/Pin/background_4.jpg",
+              "type_lock": "Theme/Cute/Pin/pin_preview.png",
+              "default": "Theme/Cute/Pin/pattern_default.png",
+              "selected": "Theme/Cute/Pin/pattern_selected.png",
+              "wrong": "Theme/Cute/Pin/pattern_selected.png",
+              "line_color_right": "#F05D73",
+              "line_color_wrong": "#F05D73"
+            },
+            {
+              "id": 4,
+              "background": "Theme/Cute/Pin/background_5.jpg",
+              "type_lock": "Theme/Cute/Pin/pin_preview.png",
+              "default": "Theme/Cute/Pin/pattern_default.png",
+              "selected": "Theme/Cute/Pin/pattern_selected.png",
+              "wrong": "Theme/Cute/Pin/pattern_selected.png",
+              "line_color_right": "#FF3662",
+              "line_color_wrong": "#FF3662"
+            },
+            {
+              "id": 5,
+              "background": "Theme/Cute/Pin/background_6.jpg",
+              "type_lock": "Theme/Cute/Pin/pin_preview.png",
+              "default": "Theme/Cute/Pin/pattern_default.png",
+              "selected": "Theme/Cute/Pin/pattern_selected.png",
+              "wrong": "Theme/Cute/Pin/pattern_selected.png",
+              "line_color_right": "#FFA100",
+              "line_color_wrong": "#FFA100"
+            },
+            {
+              "id": 6,
+              "background": "Theme/Cute/Pin/background_7.jpg",
+              "type_lock": "Theme/Cute/Pin/pin_preview.png",
+              "default": "Theme/Cute/Pin/pattern_default.png",
+              "selected": "Theme/Cute/Pin/pattern_selected.png",
+              "wrong": "Theme/Cute/Pin/pattern_selected.png",
+              "line_color_right": "#C39350",
+              "line_color_wrong": "#C39350"
+            },
+            {
+              "id": 7,
+              "background": "Theme/Cute/Pin/background_8.jpg",
+              "type_lock": "Theme/Cute/Pin/pin_preview.png",
+              "default": "Theme/Cute/Pin/pattern_default.png",
+              "selected": "Theme/Cute/Pin/pattern_selected.png",
+              "wrong": "Theme/Cute/Pin/pattern_selected.png",
+              "line_color_right": "#F9F06F",
+              "line_color_wrong": "#F9F06F"
+            },
+            {
+              "id": 8,
+              "background": "Theme/Cute/Pin/background_9.jpg",
+              "type_lock": "Theme/Cute/Pin/pin_preview.png",
+              "default": "Theme/Cute/Pin/pattern_default.png",
+              "selected": "Theme/Cute/Pin/pattern_selected.png",
+              "wrong": "Theme/Cute/Pin/pattern_selected.png",
+              "line_color_right": "#FF7A8E",
+              "line_color_wrong": "#FF7A8E"
+            },
+            {
+              "id": 9,
+              "background": "Theme/Cute/Pin/background_10.jpg",
+              "type_lock": "Theme/Cute/Pin/pin_preview.png",
+              "default": "Theme/Cute/Pin/pattern_default.png",
+              "selected": "Theme/Cute/Pin/pattern_selected.png",
+              "wrong": "Theme/Cute/Pin/pattern_selected.png",
+              "line_color_right": "#04D93A",
+              "line_color_wrong": "#04D93A"
+            },
+            {
+              "id": 10,
+              "background": "Theme/Cute/Pin/background_11.jpg",
+              "type_lock": "Theme/Cute/Pin/pin_preview.png",
+              "default": "Theme/Cute/Pin/pattern_default.png",
+              "selected": "Theme/Cute/Pin/pattern_selected.png",
+              "wrong": "Theme/Cute/Pin/pattern_selected.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            }
+          ]
         }
       ],
-    "category_4": [
+      "category_4": [
         {
-                "category_name": "Animal",
-  	  "category_count": 10,
-          "background": "Theme_pattern/Anime/background_",
- 	  "pattern_preview": "Theme_pattern/Anime/pattern_preview_",
-	  "pattern_default": "Theme_pattern/Anime/pattern_default_",
-          "pattern_selected": "Theme_pattern/Anime/pattern_selected_",
-          "pattern_wrong": "Theme_pattern/Anime/pattern_selected_",
-          "line_color_right": "#CCFFFFFF",
-  	  "line_color_wrong": "#CCFFFFFF"
+          "category_name": "Love",
+          "category_count": 20,
+          "items": [
+            {
+              "id": 0,
+              "background": "Theme/Love/Pin/background_1.jpg",
+              "type_lock": "Theme/Love/Pin/pin_preview.png",
+              "default": "Theme/Love/Pin/pattern_default.png",
+              "selected": "Theme/Love/Pin/pattern_selected.png",
+              "wrong": "Theme/Love/Pin/pattern_selected.png",
+              "line_color_right": "#D43A3E",
+              "line_color_wrong": "#D43A3E"
+            },
+            {
+              "id": 1,
+              "background": "Theme/Love/Pin/background_2.jpg",
+              "type_lock": "Theme/Love/Pin/pin_preview.png",
+              "default": "Theme/Love/Pin/pattern_default.png",
+              "selected": "Theme/Love/Pin/pattern_selected.png",
+              "wrong": "Theme/Love/Pin/pattern_selected.png",
+              "line_color_right": "#FEAB43",
+              "line_color_wrong": "#FEAB43"
+            },
+            {
+              "id": 2,
+              "background": "Theme/Love/Pin/background_3.jpg",
+              "type_lock": "Theme/Love/Pin/pin_preview.png",
+              "default": "Theme/Love/Pin/pat tern_default.png",
+              "selected": "Theme/Love/Pin/pattern_selected.png",
+              "wrong": "Theme/Love/Pin/pattern_selected.png",
+              "line_color_right": "#FF7A8E",
+              "line_color_wrong": "#FF7A8E"
+            },
+            {
+              "id": 3,
+              "background": "Theme/Love/Pin/background_4.jpg",
+              "type_lock": "Theme/Love/Pin/pin_preview.png",
+              "default": "Theme/Love/Pin/pattern_default.png",
+              "selected": "Theme/Love/Pin/pattern_selected.png",
+              "wrong": "Theme/Love/Pin/pattern_selected.png",
+              "line_color_right": "#F4914A",
+              "line_color_wrong": "#F4914A"
+            },
+            {
+              "id": 4,
+              "background": "Theme/Love/Pin/background_5.jpg",
+              "type_lock": "Theme/Love/Pin/pin_preview.png",
+              "default": "Theme/Love/Pin/pattern_default.png",
+              "selected": "Theme/Love/Pin/pattern_selected.png",
+              "wrong": "Theme/Love/Pin/pattern_selected.png",
+              "line_color_right": "#FF9DCA",
+              "line_color_wrong": "#FF9DCA"
+            },
+            {
+              "id": 5,
+              "background": "Theme/Love/Pin/background_6.jpg",
+              "type_lock": "Theme/Love/Pin/pin_preview.png",
+              "default": "Theme/Love/Pin/pattern_default.png",
+              "selected": "Theme/Love/Pin/pattern_selected.png",
+              "wrong": "Theme/Love/Pin/pattern_selected.png",
+              "line_color_right": "#99FFFFFF",
+              "line_color_wrong": "#99FFFFFF"
+            },
+            {
+              "id": 6,
+              "background": "Theme/Love/Pin/background_7.jpg",
+              "type_lock": "Theme/Love/Pin/pin_preview.png",
+              "default": "Theme/Love/Pin/pattern_default.png",
+              "selected": "Theme/Love/Pin/pattern_selected.png",
+              "wrong": "Theme/Love/Pin/pattern_selected.png",
+              "line_color_right": "#FFE262",
+              "line_color_wrong": "#FFE262 "
+            },
+            {
+              "id": 7,
+              "background": "Theme/Love/Pin/background_8.jpg",
+              "type_lock": "Theme/Love/Pin/pin_preview.png",
+              "default": "Theme/Love/Pin/pattern_default.png",
+              "selected": "Theme/Love/Pin/pattern_selected.png",
+              "wrong": "Theme/Love/Pin/pattern_selected.png",
+              "line_color_right": "#FF9DCA",
+              "line_color_wrong": "#FF9DCA"
+            },
+            {
+              "id": 8,
+              "background": "Theme/Love/Pin/background_9.jpg",
+              "type_lock": "Theme/Love/Pin/pin_preview.png",
+              "default": "Theme/Love/Pin/pattern_default.png",
+              "selected": "Theme/Love/Pin/pattern_selected.png",
+              "wrong": "Theme/Love/Pin/pattern_selected.png",
+              "line_color_right": "#FA9E5A",
+              "line_color_wrong": "#FA9E5A"
+            },
+            {
+              "id": 9,
+              "background": "Theme/Love/Pin/background_10.jpg",
+              "type_lock": "Theme/Love/Pin/pin_preview.png",
+              "default": "Theme/Love/Pin/pattern_default.png",
+              "selected": "Theme/Love/Pin/pattern_selected.png",
+              "wrong": "Theme/Love/Pin/pattern_selected.png",
+              "line_color_right": "#B1DAFF",
+              "line_color_wrong": "#B1DAFF"
+            },
+            {
+              "id": 10,
+              "background": "Theme/Love/Pin/background_11.jpg",
+              "type_lock": "Theme/Love/Pin/pin_preview.png",
+              "default": "Theme/Love/Pin/pattern_default.png",
+              "selected": "Theme/Love/Pin/pattern_selected.png",
+              "wrong": "Theme/Love/Pin/pattern_selected.png",
+              "line_color_right": "#FAA4BD",
+              "line_color_wrong": "#FAA4BD"
+            }
+          ]
         }
       ],
-    "category_5": [
+      "category_5": [
         {
-             "category_name": "Animal",
-  	  "category_count": 10,
-          "background": "Theme_pattern/Anime/background_",
- 	  "pattern_preview": "Theme_pattern/Anime/pattern_preview_",
-	  "pattern_default": "Theme_pattern/Anime/pattern_default_",
-          "pattern_selected": "Theme_pattern/Anime/pattern_selected_",
-          "pattern_wrong": "Theme_pattern/Anime/pattern_selected_",
-          "line_color_right": "#CCFFFFFF",
-  	  "line_color_wrong": "#CCFFFFFF"
+          "category_name": "Anime",
+          "category_count": 20,
+          "items": [
+            {
+              "id": 0,
+              "background": "Theme/Anime/Pin/background_1.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 1,
+              "background": "Theme/Anime/Pin/background_2.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CCFFFFFF",
+              "line_color_wrong": "#CCFFFFFF"
+            },
+            {
+              "id": 2,
+              "background": "Theme/Anime/Pin/background_3.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CC00A58B",
+              "line_color_wrong": "#CC00A58B"
+            },
+            {
+              "id": 3,
+              "background": "Theme/Anime/Pin/background_4.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CCFFEDE2",
+              "line_color_wrong": "#CCFFEDE2"
+            },
+            {
+              "id": 4,
+              "background": "Theme/Anime/Pin/background_5.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CCFFEDE2",
+              "line_color_wrong": "#CCFFEDE2"
+            },
+            {
+              "id": 5,
+              "background": "Theme/Anime/Pin/background_6.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CCFFEDE2",
+              "line_color_wrong": "#CCFFEDE2"
+            },
+            {
+              "id": 6,
+              "background": "Theme/Anime/Pin/background_7.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CCFF7A8E",
+              "line_color_wrong": "#CCFF7A8E"
+            },
+            {
+              "id": 7,
+              "background": "Theme/Anime/Pin/background_8.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CCFFC300",
+              "line_color_wrong": "#CCFFC300"
+            },
+            {
+              "id": 8,
+              "background": "Theme/Anime/Pin/background_9.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CC83CD3A",
+              "line_color_wrong": "#CC83CD3A"
+            },
+            {
+              "id": 9,
+              "background": "Theme/Anime/Pin/background_10.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CC1C8672",
+              "line_color_wrong": "#CC1C8672"
+            },
+            {
+              "id": 10,
+              "background": "Theme/Anime/Pin/background_11.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CCFFEDE2",
+              "line_color_wrong": "#CCFFEDE2"
+            },
+            {
+              "id": 11,
+              "background": "Theme/Anime/Pin/background_12.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CCFFEDE2",
+              "line_color_wrong": "#CCFFEDE2"
+            },
+            {
+              "id": 12,
+              "background": "Theme/Anime/Pin/background_13.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CCFFEDE2",
+              "line_color_wrong": "#CCFFEDE2"
+            },
+            {
+              "id": 13,
+              "background": "Theme/Anime/Pin/background_14.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CCFF7A8E",
+              "line_color_wrong": "#CCFF7A8E"
+            },
+            {
+              "id": 14,
+              "background": "Theme/Anime/Pin/background_15.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CCFFC300",
+              "line_color_wrong": "#CCFFC300"
+            },
+            {
+              "id": 15,
+              "background": "Theme/Anime/Pin/background_16.jpg",
+              "type_lock": "Theme/Anime/Pin/pin_preview.png",
+              "default": "Theme/Anime/Pin/pattern_default.png",
+              "selected": "Theme/Anime/Pin/pattern_selected.png",
+              "wrong": "Theme/Anime/Pin/pattern_selected.png",
+              "line_color_right": "#CC83CD3A",
+              "line_color_wrong": "#CC83CD3A"
+            }
+          ]
+        }
+      ],
+      "category_6": [
+        {
+          "category_name": "Neon",
+          "category_count": 20,
+          "items": [
+            {
+              "id": 1,
+              "background": "Theme/Neon/Pin/background_1.jpg",
+              "type_lock": "Theme/Neon/Pin/pin_preview.png",
+              "default": "Theme/Neon/Pin/pattern_default.png",
+              "selected": "Theme/Neon/Pin/pattern_selected.png",
+              "wrong": "Theme/Neon/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 2,
+              "background": "Theme/Neon/Pin/background_2.jpg",
+              "type_lock": "Theme/Neon/Pin/pin_preview.png",
+              "default": "Theme/Neon/Pin/pattern_default.png",
+              "selected": "Theme/Neon/Pin/pattern_selected.png",
+              "wrong": "Theme/Neon/Pin/pattern_selected.png",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 3,
+              "background": "Theme/Neon/Pin/background_3.jpg",
+              "type_lock": "Theme/Neon/Pin/pin_preview.png",
+              "default": "Theme/Neon/Pin/pattern_default.png",
+              "selected": "Theme/Neon/Pin/pattern_selected.png",
+              "wrong": "Theme/Neon/Pin/pattern_selected.png",
+              "line_color_right": "#73BDF1FF",
+              "line_color_wrong": "#73BDF1FF"
+            },
+            {
+              "id": 4,
+              "background": "Theme/Neon/Pin/background_4.jpg",
+              "type_lock": "Theme/Neon/Pin/pin_preview.png",
+              "default": "Theme/Neon/Pin/pattern_default.png",
+              "selected": "Theme/Neon/Pin/pattern_selected.png",
+              "wrong": "Theme/Neon/Pin/pattern_selected.png",
+              "line_color_right": "#80FFD46E",
+              "line_color_wrong": "#80FFD46E"
+            },
+            {
+              "id": 5,
+              "background": "Theme/Neon/Pin/background_5.jpg",
+              "type_lock": "Theme/Neon/Pin/pin_preview.png",
+              "default": "Theme/Neon/Pin/pattern_default.png",
+              "selected": "Theme/Neon/Pin/pattern_selected.png",
+              "wrong": "Theme/Neon/Pin/pattern_selected.png",
+              "line_color_right": "#4DFFFFFF",
+              "line_color_wrong": "#4DFFFFFF"
+            },
+            {
+              "id": 6,
+              "background": "Theme/Neon/Pin/background_6.jpg",
+              "type_lock": "Theme/Neon/Pin/pin_preview.png",
+              "default": "Theme/Neon/Pin/pattern_default.png",
+              "selected": "Theme/Neon/Pin/pattern_selected.png",
+              "wrong": "Theme/Neon/Pin/pattern_selected.png",
+              "line_color_right": "#CCFF0000",
+              "line_color_wrong": "#CCFF0000"
+            },
+            {
+              "id": 7,
+              "background": "Theme/Neon/Pin/background_7.jpg",
+              "type_lock": "Theme/Neon/Pin/pin_preview.png",
+              "default": "Theme/Neon/Pin/pattern_default.png",
+              "selected": "Theme/Neon/Pin/pattern_selected.png",
+              "wrong": "Theme/Neon/Pin/pattern_selected.png",
+              "line_color_right": "#80E2F3FF",
+              "line_color_wrong": "#80E2F3FF"
+            },
+            {
+              "id": 8,
+              "background": "Theme/Neon/Pin/background_8.jpg",
+              "type_lock": "Theme/Neon/Pin/pin_preview.png",
+              "default": "Theme/Neon/Pin/pattern_default.png",
+              "selected": "Theme/Neon/Pin/pattern_selected.png",
+              "wrong": "Theme/Neon/Pin/pattern_selected.png",
+              "line_color_right": "#99FFEFBF",
+              "line_color_wrong": "#99FFEFBF"
+            },
+            {
+              "id": 9,
+              "background": "Theme/Neon/Pin/background_9.jpg",
+              "type_lock": "Theme/Neon/Pin/pin_preview.png",
+              "default": "Theme/Neon/Pin/pattern_default.png",
+              "selected": "Theme/Neon/Pin/pattern_selected.png",
+              "wrong": "Theme/Neon/Pin/pattern_selected.png",
+              "line_color_right": "#99F1D8FF",
+              "line_color_wrong": "#99F1D8FF"
+            },
+            {
+              "id": 10,
+              "background": "Theme/Neon/Pin/background_10.jpg",
+              "type_lock": "Theme/Neon/Pin/pin_preview.png",
+              "default": "Theme/Neon/Pin/pattern_default.png",
+              "selected": "Theme/Neon/Pin/pattern_selected.png",
+              "wrong": "Theme/Neon/Pin/pattern_selected.png",
+              "line_color_right": "#90FFFFFF",
+              "line_color_wrong": "#90FFFFFF"
+            },
+            {
+              "id": 11,
+              "background": "Theme/Neon/Pin/background_11.jpg",
+              "type_lock": "Theme/Neon/Pin/pin_preview.png",
+              "default": "Theme/Neon/Pin/pattern_default.png",
+              "selected": "Theme/Neon/Pin/pattern_selected.png",
+              "wrong": "Theme/Neon/Pin/pattern_selected.png",
+              "line_color_right": "#80FFD46E",
+              "line_color_wrong": "#80FFD46E"
+            }
+          ]
+        }
+      ],
+      "category_7": [
+        {
+          "category_name": "Color",
+          "category_count": 20,
+          "items": [
+            {
+              "id": 0,
+              "background": "#D487BB",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 1,
+              "background": "#E15997",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "g",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 2,
+              "background": "#DE3472",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 3,
+              "background": "#B80000",
+              "type_lock": "",
+              "default": "",
+              "selected": "g",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 4,
+              "background": "#7D2028",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 5,
+              "background": "#7FA5F8",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 6,
+              "background": "#19BCF7",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 7,
+              "background": "#1B61F7",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 8,
+              "background": "#384AD2",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 9,
+              "background": "#002677",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 10,
+              "background": "#FFC36D",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 11,
+              "background": "#F9BF20",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 12,
+              "background": "#FFA300",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 13,
+              "background": "#FE7E03",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 14,
+              "background": "#F86520",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 15,
+              "background": "#B78AFF",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 16,
+              "background": "#C55EF7",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 17,
+              "background": "#7643F7",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 18,
+              "background": "#7727C4",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 19,
+              "background": "#4D0BF5",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 20,
+              "background": "#9BBEA8",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 21,
+              "background": "#8FC273",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 22,
+              "background": "#009B38",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 23,
+              "background": "#008864",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            },
+            {
+              "id": 24,
+              "background": "#046A38",
+              "type_lock": "",
+              "default": "",
+              "selected": "",
+              "wrong": "",
+              "line_color_right": "#FFFFFF",
+              "line_color_wrong": "#FFFFFF"
+            }
+          ]
         }
       ]
     }

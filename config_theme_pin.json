@@ -8,7 +8,7 @@
           "items": [
             {
               "id": 0,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_1.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -18,7 +18,7 @@
             },
             {
               "id": 1,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_2.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -28,7 +28,7 @@
             },
             {
               "id": 2,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_3.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -38,7 +38,7 @@
             },
             {
               "id": 3,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_4.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -48,7 +48,7 @@
             },
             {
               "id": 4,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_5.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -58,7 +58,7 @@
             },
             {
               "id": 5,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_6.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -68,7 +68,7 @@
             },
             {
               "id": 6,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_7.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -78,7 +78,7 @@
             },
             {
               "id": 7,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_8.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -88,7 +88,7 @@
             },
             {
               "id": 8,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_9.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -98,7 +98,7 @@
             },
             {
               "id": 9,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_10.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -108,7 +108,7 @@
             },
             {
               "id": 10,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_11.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -118,7 +118,7 @@
             },
             {
               "id": 11,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_12.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -128,7 +128,7 @@
             },
             {
               "id": 12,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_13.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -138,7 +138,7 @@
             },
             {
               "id": 13,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_14.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -148,7 +148,7 @@
             },
             {
               "id": 14,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_15.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -158,7 +158,7 @@
             },
             {
               "id": 15,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_16.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -168,7 +168,7 @@
             },
             {
               "id": 16,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_17.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -178,7 +178,7 @@
             },
             {
               "id": 17,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_18.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -188,7 +188,7 @@
             },
             {
               "id": 18,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_19.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
@@ -198,7 +198,7 @@
             },
             {
               "id": 19,
-              "background": "Theme/Gradient/Pin/background.jpg",
+              "background": "Theme/Gradient/Pin/background_20.jpg",
               "type_lock": "Theme/Gradient/Pin/pin_preview.png",
               "default": "Theme/Gradient/Pin/pattern_default.png",
               "selected": "Theme/Gradient/Pin/pattern_selected.png",
